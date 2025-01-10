@@ -1,5 +1,7 @@
 # NACE code API
 
+Revision: 2.0 (warning it is now obsolete and replaced, since the begginign of 2025, with Rev. 2.1)
+
 Request a NACE code and get section, division, group and class back.
 
 Source: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32006R1893
