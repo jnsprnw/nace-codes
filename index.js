@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const fs = require("fs");
-const codes = JSON.parse(fs.readFileSync("./codes.json", "utf8"));
+const codes = JSON.parse(fs.readFileSync("./data/codes.json", "utf8"));
 
 const { set, get, isNull, isEmpty, find, isUndefined } = require("lodash");
 
