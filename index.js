@@ -9,12 +9,12 @@ app.get('/', function (req, res) {
   const answer = {}
   const code = get(req, 'query.code')
   if (code) {
-		const regex = /^(?<division>\d+)(\.(?<group>\d?)(?<klass>\d?))?$/y
+		const regex = /^(?<division>\d+)(\.(?<group>\d?)(?<class>\d?))?$/y
 
 		const matches = regex.exec(code)
 
 		if (!isNull(matches)) {
-			const { division, group, klass } = matches.groups
+			const { division, group, class } = matches.groups
 
 			if (!isEmpty(division)) {
 				const termDevision = division
@@ -41,8 +41,8 @@ app.get('/', function (req, res) {
 								id: termGroup
 							})
 
-							if (!isEmpty(klass)) {
-								const termClass = `${division}.${group}${klass}`
+							if (!isEmpty(class)) {
+								const termClass = `${division}.${group}${class}`
 								const c = find(codes, { Division: termDevision, Group: termGroup, Class: termClass })
 
 								if (!isUndefined(c)) {
