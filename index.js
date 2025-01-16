@@ -1,10 +1,11 @@
-const express = require("express");
+import express from "express";
+import { readFileSync } from "fs";
+
+const codes = JSON.parse(readFileSync("./data/codes.json", "utf8"));
+
+import { set, get, isNull, isEmpty, find, isUndefined } from "lodash";
+
 const app = express();
-const fs = require("fs");
-const codes = JSON.parse(fs.readFileSync("./data/codes.json", "utf8"));
-
-const { set, get, isNull, isEmpty, find, isUndefined } = require("lodash");
-
 app.get("/", function (req, res) {
   const answer = {};
   const code = get(req, "query.code");
