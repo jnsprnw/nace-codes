@@ -50,4 +50,4 @@ https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32006R1893
 netlify dev
 ```
 
-Request: `http://localhost:8888/.netlify/functions/getCode?code=16.23`
+Request: `http://localhost:8888/?code=16.23`
