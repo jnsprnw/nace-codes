@@ -1,4 +1,4 @@
-import codesData from "../data/codes.json";
+import codesData from "../data/codes-2.0.json";
 
 export interface NaceCode {
   Section: string;

@@ -4,7 +4,7 @@
     "Division": null,
     "Group": null,
     "Class": null,
-    "Activity": "Agriculture, Forestry And Fishing"
+    "Activity": "Agriculture, forestry and fishing"
   },
   {
     "Section": "A",
@@ -25,7 +25,7 @@
     "Division": "01",
     "Group": "01.1",
     "Class": "01.11",
-    "Activity": "Growing of cereals (except rice), leguminous crops and oil seeds"
+    "Activity": "Growing of cereals, other than rice, leguminous crops and oil seeds"
   },
   {
     "Section": "A",
@@ -200,7 +200,7 @@
     "Division": "01",
     "Group": "01.4",
     "Class": "01.46",
-    "Activity": "Raising of swine/pigs"
+    "Activity": "Raising of swine and pigs"
   },
   {
     "Section": "A",
@@ -213,7 +213,7 @@
     "Section": "A",
     "Division": "01",
     "Group": "01.4",
-    "Class": "01.49",
+    "Class": "01.48",
     "Activity": "Raising of other animals"
   },
   {
@@ -256,14 +256,7 @@
     "Division": "01",
     "Group": "01.6",
     "Class": "01.63",
-    "Activity": "Post-harvest crop activities"
-  },
-  {
-    "Section": "A",
-    "Division": "01",
-    "Group": "01.6",
-    "Class": "01.64",
-    "Activity": "Seed processing for propagation"
+    "Activity": "Post-harvest crop activities and seed processing for propagation"
   },
   {
     "Section": "A",
@@ -282,7 +275,7 @@
   {
     "Section": "A",
     "Division": "02",
-    "Group": "01.7",
+    "Group": null,
     "Class": null,
     "Activity": "Forestry and logging"
   },
@@ -345,7 +338,7 @@
   {
     "Section": "A",
     "Division": "03",
-    "Group": "02.4",
+    "Group": null,
     "Class": null,
     "Activity": "Fishing and aquaculture"
   },
@@ -392,16 +385,30 @@
     "Activity": "Freshwater aquaculture"
   },
   {
+    "Section": "A",
+    "Division": "03",
+    "Group": "03.3",
+    "Class": null,
+    "Activity": "Support activities for fishing and aquaculture"
+  },
+  {
+    "Section": "A",
+    "Division": "03",
+    "Group": "03.3",
+    "Class": "03.30",
+    "Activity": "Support activities for fishing and aquaculture"
+  },
+  {
     "Section": "B",
     "Division": null,
-    "Group": "03.2",
+    "Group": null,
     "Class": null,
-    "Activity": "Mining And Quarrying"
+    "Activity": "Mining and quarrying"
   },
   {
     "Section": "B",
     "Division": "05",
-    "Group": "03.2",
+    "Group": null,
     "Class": null,
     "Activity": "Mining of coal and lignite"
   },
@@ -436,7 +443,7 @@
   {
     "Section": "B",
     "Division": "06",
-    "Group": "05.2",
+    "Group": null,
     "Class": null,
     "Activity": "Extraction of crude petroleum and natural gas"
   },
@@ -471,7 +478,7 @@
   {
     "Section": "B",
     "Division": "07",
-    "Group": "06.2",
+    "Group": null,
     "Class": null,
     "Activity": "Mining of metal ores"
   },
@@ -513,7 +520,7 @@
   {
     "Section": "B",
     "Division": "08",
-    "Group": "07.2",
+    "Group": null,
     "Class": null,
     "Activity": "Other mining and quarrying"
   },
@@ -529,14 +536,14 @@
     "Division": "08",
     "Group": "08.1",
     "Class": "08.11",
-    "Activity": "Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate"
+    "Activity": "Quarrying of ornamental stone, limestone, gypsum, slate and other stone"
   },
   {
     "Section": "B",
     "Division": "08",
     "Group": "08.1",
     "Class": "08.12",
-    "Activity": "Operation of gravel and sand pits; mining of clays and kaolin"
+    "Activity": "Operation of gravel and sand pits and mining of clay and kaolin"
   },
   {
     "Section": "B",
@@ -576,7 +583,7 @@
   {
     "Section": "B",
     "Division": "09",
-    "Group": "08.9",
+    "Group": null,
     "Class": null,
     "Activity": "Mining support service activities"
   },
@@ -611,14 +618,14 @@
   {
     "Section": "C",
     "Division": null,
-    "Group": "09.9",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacturing"
   },
   {
     "Section": "C",
     "Division": "10",
-    "Group": "09.9",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacture of food products"
   },
@@ -634,7 +641,7 @@
     "Division": "10",
     "Group": "10.1",
     "Class": "10.11",
-    "Activity": "Processing and preserving of meat"
+    "Activity": "Processing and preserving of meat, except of poultry meat"
   },
   {
     "Section": "C",
@@ -718,21 +725,21 @@
     "Division": "10",
     "Group": "10.5",
     "Class": null,
-    "Activity": "Manufacture of dairy products"
+    "Activity": "Manufacture of dairy products and edible ice"
   },
   {
     "Section": "C",
     "Division": "10",
     "Group": "10.5",
     "Class": "10.51",
-    "Activity": "Operation of dairies and cheese making"
+    "Activity": "Manufacture of dairy products"
   },
   {
     "Section": "C",
     "Division": "10",
     "Group": "10.5",
     "Class": "10.52",
-    "Activity": "Manufacture of ice cream"
+    "Activity": "Manufacture of ice cream and other edible ice"
   },
   {
     "Section": "C",
@@ -774,14 +781,14 @@
     "Division": "10",
     "Group": "10.7",
     "Class": "10.72",
-    "Activity": "Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes"
+    "Activity": "Manufacture of rusks, biscuits, preserved pastries and cakes"
   },
   {
     "Section": "C",
     "Division": "10",
     "Group": "10.7",
     "Class": "10.73",
-    "Activity": "Manufacture of macaroni, noodles, couscous and similar farinaceous products"
+    "Activity": "Manufacture of farinaceous products"
   },
   {
     "Section": "C",
@@ -863,7 +870,7 @@
   {
     "Section": "C",
     "Division": "11",
-    "Group": "10.9",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacture of beverages"
   },
@@ -893,7 +900,7 @@
     "Division": "11",
     "Group": "11.0",
     "Class": "11.03",
-    "Activity": "Manufacture of cider and other fruit wines"
+    "Activity": "Manufacture of cider and other fermented fruit beverages"
   },
   {
     "Section": "C",
@@ -921,12 +928,12 @@
     "Division": "11",
     "Group": "11.0",
     "Class": "11.07",
-    "Activity": "Manufacture of soft drinks; production of mineral waters and other bottled waters"
+    "Activity": "Manufacture of soft drinks and bottled waters"
   },
   {
     "Section": "C",
     "Division": "12",
-    "Group": "11.0",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacture of tobacco products"
   },
@@ -947,7 +954,7 @@
   {
     "Section": "C",
     "Division": "13",
-    "Group": "12.0",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacture of textiles"
   },
@@ -1012,7 +1019,7 @@
     "Division": "13",
     "Group": "13.9",
     "Class": "13.92",
-    "Activity": "Manufacture of made-up textile articles, except apparel"
+    "Activity": "Manufacture of household textiles and made-up furnishing articles"
   },
   {
     "Section": "C",
@@ -1033,7 +1040,7 @@
     "Division": "13",
     "Group": "13.9",
     "Class": "13.95",
-    "Activity": "Manufacture of non-wovens and articles made from non-wovens, except apparel"
+    "Activity": "Manufacture of non-wovens and non-woven articles"
   },
   {
     "Section": "C",
@@ -1052,7 +1059,7 @@
   {
     "Section": "C",
     "Division": "14",
-    "Group": "13.9",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacture of wearing apparel"
   },
@@ -1061,105 +1068,84 @@
     "Division": "14",
     "Group": "14.1",
     "Class": null,
-    "Activity": "Manufacture of wearing apparel, except fur apparel"
+    "Activity": "Manufacture of knitted and crocheted apparel"
   },
   {
     "Section": "C",
     "Division": "14",
     "Group": "14.1",
-    "Class": "14.11",
-    "Activity": "Manufacture of leather clothes"
+    "Class": "14.10",
+    "Activity": "Manufacture of knitted and crocheted apparel"
   },
   {
     "Section": "C",
     "Division": "14",
-    "Group": "14.1",
-    "Class": "14.12",
-    "Activity": "Manufacture of workwear"
-  },
-  {
-    "Section": "C",
-    "Division": "14",
-    "Group": "14.1",
-    "Class": "14.13",
-    "Activity": "Manufacture of other outerwear"
-  },
-  {
-    "Section": "C",
-    "Division": "14",
-    "Group": "14.1",
-    "Class": "14.14",
-    "Activity": "Manufacture of underwear"
-  },
-  {
-    "Section": "C",
-    "Division": "14",
-    "Group": "14.1",
-    "Class": "14.19",
+    "Group": "14.2",
+    "Class": null,
     "Activity": "Manufacture of other wearing apparel and accessories"
   },
   {
     "Section": "C",
     "Division": "14",
     "Group": "14.2",
-    "Class": null,
-    "Activity": "Manufacture of articles of fur"
+    "Class": "14.21",
+    "Activity": "Manufacture of outerwear"
   },
   {
     "Section": "C",
     "Division": "14",
     "Group": "14.2",
-    "Class": "14.20",
-    "Activity": "Manufacture of articles of fur"
+    "Class": "14.22",
+    "Activity": "Manufacture of underwear"
   },
   {
     "Section": "C",
     "Division": "14",
-    "Group": "14.3",
-    "Class": null,
-    "Activity": "Manufacture of knitted and crocheted apparel"
+    "Group": "14.2",
+    "Class": "14.23",
+    "Activity": "Manufacture of workwear"
   },
   {
     "Section": "C",
     "Division": "14",
-    "Group": "14.3",
-    "Class": "14.31",
-    "Activity": "Manufacture of knitted and crocheted hosiery"
+    "Group": "14.2",
+    "Class": "14.24",
+    "Activity": "Manufacture of leather clothes and fur apparel"
   },
   {
     "Section": "C",
     "Division": "14",
-    "Group": "14.3",
-    "Class": "14.39",
-    "Activity": "Manufacture of other knitted and crocheted apparel"
+    "Group": "14.2",
+    "Class": "14.29",
+    "Activity": "Manufacture of other wearing apparel and accessories n.e.c."
   },
   {
     "Section": "C",
     "Division": "15",
-    "Group": "14.3",
+    "Group": null,
     "Class": null,
-    "Activity": "Manufacture of leather and related products"
+    "Activity": "Manufacture of leather and related products of other materials"
   },
   {
     "Section": "C",
     "Division": "15",
     "Group": "15.1",
     "Class": null,
-    "Activity": "Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness; dressing and dyeing of fur"
+    "Activity": "Tanning, dyeing, dressing of leather and fur; manufacture of luggage, handbags, saddlery and harness"
   },
   {
     "Section": "C",
     "Division": "15",
     "Group": "15.1",
     "Class": "15.11",
-    "Activity": "Tanning and dressing of leather; dressing and dyeing of fur"
+    "Activity": "Tanning, dressing, dyeing of leather and fur"
   },
   {
     "Section": "C",
     "Division": "15",
     "Group": "15.1",
     "Class": "15.12",
-    "Activity": "Manufacture of luggage, handbags and the like, saddlery and harness"
+    "Activity": "Manufacture of luggage, handbags, saddlery and harness of any material"
   },
   {
     "Section": "C",
@@ -1178,7 +1164,7 @@
   {
     "Section": "C",
     "Division": "16",
-    "Group": "15.2",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials"
   },
@@ -1187,14 +1173,21 @@
     "Division": "16",
     "Group": "16.1",
     "Class": null,
+    "Activity": "Sawmilling and planing of wood; processing and finishing of wood"
+  },
+  {
+    "Section": "C",
+    "Division": "16",
+    "Group": "16.1",
+    "Class": "16.11",
     "Activity": "Sawmilling and planing of wood"
   },
   {
     "Section": "C",
     "Division": "16",
     "Group": "16.1",
-    "Class": "16.10",
-    "Activity": "Sawmilling and planing of wood"
+    "Class": "16.12",
+    "Activity": "Processing and finishing of wood"
   },
   {
     "Section": "C",
@@ -1222,7 +1215,7 @@
     "Division": "16",
     "Group": "16.2",
     "Class": "16.23",
-    "Activity": "Manufacture of other builders' carpentry and joinery"
+    "Activity": "Manufacture of other builders’ carpentry and joinery"
   },
   {
     "Section": "C",
@@ -1235,13 +1228,34 @@
     "Section": "C",
     "Division": "16",
     "Group": "16.2",
-    "Class": "16.29",
-    "Activity": "Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials"
+    "Class": "16.25",
+    "Activity": "Manufacture of doors and windows of wood"
+  },
+  {
+    "Section": "C",
+    "Division": "16",
+    "Group": "16.2",
+    "Class": "16.26",
+    "Activity": "Manufacture of solid fuels from vegetable biomass"
+  },
+  {
+    "Section": "C",
+    "Division": "16",
+    "Group": "16.2",
+    "Class": "16.27",
+    "Activity": "Finishing of wooden products"
+  },
+  {
+    "Section": "C",
+    "Division": "16",
+    "Group": "16.2",
+    "Class": "16.28",
+    "Activity": "Manufacture of other products of wood and articles of cork, straw and plaiting materials"
   },
   {
     "Section": "C",
     "Division": "17",
-    "Group": "16.2",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacture of paper and paper products"
   },
@@ -1278,7 +1292,7 @@
     "Division": "17",
     "Group": "17.2",
     "Class": "17.21",
-    "Activity": "Manufacture of corrugated paper and paperboard and of containers of paper and paperboard"
+    "Activity": "Manufacture of corrugated paper, paperboard and containers of paper and paperboard"
   },
   {
     "Section": "C",
@@ -1305,13 +1319,13 @@
     "Section": "C",
     "Division": "17",
     "Group": "17.2",
-    "Class": "17.29",
+    "Class": "17.25",
     "Activity": "Manufacture of other articles of paper and paperboard"
   },
   {
     "Section": "C",
     "Division": "18",
-    "Group": "17.2",
+    "Group": null,
     "Class": null,
     "Activity": "Printing and reproduction of recorded media"
   },
@@ -1367,7 +1381,7 @@
   {
     "Section": "C",
     "Division": "19",
-    "Group": "18.2",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacture of coke and refined petroleum products"
   },
@@ -1390,19 +1404,19 @@
     "Division": "19",
     "Group": "19.2",
     "Class": null,
-    "Activity": "Manufacture of refined petroleum products"
+    "Activity": "Manufacture of refined petroleum products and fossil fuel products"
   },
   {
     "Section": "C",
     "Division": "19",
     "Group": "19.2",
     "Class": "19.20",
-    "Activity": "Manufacture of refined petroleum products"
+    "Activity": "Manufacture of refined petroleum products and fossil fuel products"
   },
   {
     "Section": "C",
     "Division": "20",
-    "Group": "19.2",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacture of chemicals and chemical products"
   },
@@ -1467,14 +1481,14 @@
     "Division": "20",
     "Group": "20.2",
     "Class": null,
-    "Activity": "Manufacture of pesticides and other agrochemical products"
+    "Activity": "Manufacture of pesticides, disinfectants and other agrochemical products"
   },
   {
     "Section": "C",
     "Division": "20",
     "Group": "20.2",
     "Class": "20.20",
-    "Activity": "Manufacture of pesticides and other agrochemical products"
+    "Activity": "Manufacture of pesticides, disinfectants and other agrochemical products"
   },
   {
     "Section": "C",
@@ -1495,7 +1509,7 @@
     "Division": "20",
     "Group": "20.4",
     "Class": null,
-    "Activity": "Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations"
+    "Activity": "Manufacture of washing, cleaning and polishing preparations"
   },
   {
     "Section": "C",
@@ -1509,7 +1523,7 @@
     "Division": "20",
     "Group": "20.4",
     "Class": "20.42",
-    "Activity": "Manufacture of perfumes and toilet preparations"
+    "Activity": "Manufacture of perfume and toilet preparations"
   },
   {
     "Section": "C",
@@ -1523,21 +1537,7 @@
     "Division": "20",
     "Group": "20.5",
     "Class": "20.51",
-    "Activity": "Manufacture of explosives"
-  },
-  {
-    "Section": "C",
-    "Division": "20",
-    "Group": "20.5",
-    "Class": "20.52",
-    "Activity": "Manufacture of glues"
-  },
-  {
-    "Section": "C",
-    "Division": "20",
-    "Group": "20.5",
-    "Class": "20.53",
-    "Activity": "Manufacture of essential oils"
+    "Activity": "Manufacture of liquid biofuels"
   },
   {
     "Section": "C",
@@ -1563,7 +1563,7 @@
   {
     "Section": "C",
     "Division": "21",
-    "Group": "20.6",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacture of basic pharmaceutical products and pharmaceutical preparations"
   },
@@ -1598,7 +1598,7 @@
   {
     "Section": "C",
     "Division": "22",
-    "Group": "21.2",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacture of rubber and plastic products"
   },
@@ -1614,13 +1614,13 @@
     "Division": "22",
     "Group": "22.1",
     "Class": "22.11",
-    "Activity": "Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres"
+    "Activity": "Manufacture, retreading and rebuilding of rubber tyres and manufacture of tubes"
   },
   {
     "Section": "C",
     "Division": "22",
     "Group": "22.1",
-    "Class": "22.19",
+    "Class": "22.12",
     "Activity": "Manufacture of other rubber products"
   },
   {
@@ -1628,7 +1628,7 @@
     "Division": "22",
     "Group": "22.2",
     "Class": null,
-    "Activity": "Manufacture of plastics products"
+    "Activity": "Manufacture of plastic products"
   },
   {
     "Section": "C",
@@ -1649,19 +1649,33 @@
     "Division": "22",
     "Group": "22.2",
     "Class": "22.23",
-    "Activity": "Manufacture of builders' ware of plastic"
+    "Activity": "Manufacture of doors and windows of plastic"
   },
   {
     "Section": "C",
     "Division": "22",
     "Group": "22.2",
-    "Class": "22.29",
+    "Class": "22.24",
+    "Activity": "Manufacture of builders’ ware of plastic"
+  },
+  {
+    "Section": "C",
+    "Division": "22",
+    "Group": "22.2",
+    "Class": "22.25",
+    "Activity": "Processing and finishing of plastic products"
+  },
+  {
+    "Section": "C",
+    "Division": "22",
+    "Group": "22.2",
+    "Class": "22.26",
     "Activity": "Manufacture of other plastic products"
   },
   {
     "Section": "C",
     "Division": "23",
-    "Group": "22.2",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacture of other non-metallic mineral products"
   },
@@ -1704,7 +1718,7 @@
     "Section": "C",
     "Division": "23",
     "Group": "23.1",
-    "Class": "23.19",
+    "Class": "23.15",
     "Activity": "Manufacture and processing of other glass, including technical glassware"
   },
   {
@@ -1781,7 +1795,7 @@
     "Section": "C",
     "Division": "23",
     "Group": "23.4",
-    "Class": "23.49",
+    "Class": "23.45",
     "Activity": "Manufacture of other ceramic products"
   },
   {
@@ -1851,8 +1865,8 @@
     "Section": "C",
     "Division": "23",
     "Group": "23.6",
-    "Class": "23.69",
-    "Activity": "Manufacture of other articles of concrete, plaster and cement"
+    "Class": "23.66",
+    "Activity": "Manufacture of other articles of concrete, cement and plaster"
   },
   {
     "Section": "C",
@@ -1880,7 +1894,7 @@
     "Division": "23",
     "Group": "23.9",
     "Class": "23.91",
-    "Activity": "Production of abrasive products"
+    "Activity": "Manufacture of abrasive products"
   },
   {
     "Section": "C",
@@ -1892,7 +1906,7 @@
   {
     "Section": "C",
     "Division": "24",
-    "Group": "23.9",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacture of basic metals"
   },
@@ -2046,7 +2060,7 @@
   {
     "Section": "C",
     "Division": "25",
-    "Group": "24.5",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacture of fabricated metal products, except machinery and equipment"
   },
@@ -2083,13 +2097,13 @@
     "Division": "25",
     "Group": "25.2",
     "Class": "25.21",
-    "Activity": "Manufacture of central heating radiators and boilers"
+    "Activity": "Manufacture of central heating radiators, steam generators and boilers"
   },
   {
     "Section": "C",
     "Division": "25",
     "Group": "25.2",
-    "Class": "25.29",
+    "Class": "25.22",
     "Activity": "Manufacture of other tanks, reservoirs and containers of metal"
   },
   {
@@ -2097,90 +2111,83 @@
     "Division": "25",
     "Group": "25.3",
     "Class": null,
-    "Activity": "Manufacture of steam generators, except central heating hot water boilers"
+    "Activity": "Manufacture of weapons and ammunition"
   },
   {
     "Section": "C",
     "Division": "25",
     "Group": "25.3",
     "Class": "25.30",
-    "Activity": "Manufacture of steam generators, except central heating hot water boilers"
+    "Activity": "Manufacture of weapons and ammunition"
   },
   {
     "Section": "C",
     "Division": "25",
     "Group": "25.4",
     "Class": null,
-    "Activity": "Manufacture of weapons and ammunition"
+    "Activity": "Forging and shaping metal and powder metallurgy"
   },
   {
     "Section": "C",
     "Division": "25",
     "Group": "25.4",
     "Class": "25.40",
-    "Activity": "Manufacture of weapons and ammunition"
+    "Activity": "Forging and shaping metal and powder metallurgy"
   },
   {
     "Section": "C",
     "Division": "25",
     "Group": "25.5",
-    "Class": null,
-    "Activity": "Forging, pressing, stamping and roll-forming of metal; powder metallurgy"
-  },
-  {
-    "Section": "C",
-    "Division": "25",
-    "Group": "25.5",
-    "Class": "25.50",
-    "Activity": "Forging, pressing, stamping and roll-forming of metal; powder metallurgy"
-  },
-  {
-    "Section": "C",
-    "Division": "25",
-    "Group": "25.6",
     "Class": null,
     "Activity": "Treatment and coating of metals; machining"
   },
   {
     "Section": "C",
     "Division": "25",
-    "Group": "25.6",
-    "Class": "25.61",
-    "Activity": "Treatment and coating of metals"
+    "Group": "25.5",
+    "Class": "25.51",
+    "Activity": "Coating of metals"
+  },
+  {
+    "Section": "C",
+    "Division": "25",
+    "Group": "25.5",
+    "Class": "25.52",
+    "Activity": "Heat treatment of metals"
+  },
+  {
+    "Section": "C",
+    "Division": "25",
+    "Group": "25.5",
+    "Class": "25.53",
+    "Activity": "Machining of metals"
   },
   {
     "Section": "C",
     "Division": "25",
     "Group": "25.6",
-    "Class": "25.62",
-    "Activity": "Machining"
-  },
-  {
-    "Section": "C",
-    "Division": "25",
-    "Group": "25.7",
     "Class": null,
     "Activity": "Manufacture of cutlery, tools and general hardware"
   },
   {
     "Section": "C",
     "Division": "25",
-    "Group": "25.7",
-    "Class": "25.71",
+    "Group": "25.6",
+    "Class": "25.61",
     "Activity": "Manufacture of cutlery"
   },
   {
     "Section": "C",
     "Division": "25",
-    "Group": "25.7",
-    "Class": "25.72",
+    "Group": "25.6",
+    "Class": "25.62",
     "Activity": "Manufacture of locks and hinges"
   },
   {
     "Section": "C",
     "Division": "25",
-    "Group": "25.7",
-    "Class": "25.73",
+    "Group": "25.6",
+    "Class": "25.63",
     "Activity": "Manufacture of tools"
   },
   {
@@ -2228,7 +2235,7 @@
   {
     "Section": "C",
     "Division": "26",
-    "Group": "25.9",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacture of computer, electronic and optical products"
   },
@@ -2300,7 +2307,7 @@
     "Division": "26",
     "Group": "26.5",
     "Class": null,
-    "Activity": "Manufacture of instruments and appliances for measuring, testing and navigation; watches and clocks"
+    "Activity": "Manufacture of measuring testing instruments, clocks and watches"
   },
   {
     "Section": "C",
@@ -2335,33 +2342,19 @@
     "Division": "26",
     "Group": "26.7",
     "Class": null,
-    "Activity": "Manufacture of optical instruments and photographic equipment"
+    "Activity": "Manufacture of optical instruments, magnetic and optical media and photographic equipment"
   },
   {
     "Section": "C",
     "Division": "26",
     "Group": "26.7",
     "Class": "26.70",
-    "Activity": "Manufacture of optical instruments and photographic equipment"
-  },
-  {
-    "Section": "C",
-    "Division": "26",
-    "Group": "26.8",
-    "Class": null,
-    "Activity": "Manufacture of magnetic and optical media"
-  },
-  {
-    "Section": "C",
-    "Division": "26",
-    "Group": "26.8",
-    "Class": "26.80",
-    "Activity": "Manufacture of magnetic and optical media"
+    "Activity": "Manufacture of optical instruments, magnetic and optical media and photographic equipment"
   },
   {
     "Section": "C",
     "Division": "27",
-    "Group": "26.8",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacture of electrical equipment"
   },
@@ -2433,14 +2426,14 @@
     "Division": "27",
     "Group": "27.4",
     "Class": null,
-    "Activity": "Manufacture of electric lighting equipment"
+    "Activity": "Manufacture of lighting equipment"
   },
   {
     "Section": "C",
     "Division": "27",
     "Group": "27.4",
     "Class": "27.40",
-    "Activity": "Manufacture of electric lighting equipment"
+    "Activity": "Manufacture of lighting equipment"
   },
   {
     "Section": "C",
@@ -2480,7 +2473,7 @@
   {
     "Section": "C",
     "Division": "28",
-    "Group": "27.9",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacture of machinery and equipment n.e.c."
   },
@@ -2489,7 +2482,7 @@
     "Division": "28",
     "Group": "28.1",
     "Class": null,
-    "Activity": "Manufacture of general — purpose machinery"
+    "Activity": "Manufacture of general-purpose machinery"
   },
   {
     "Section": "C",
@@ -2538,7 +2531,7 @@
     "Division": "28",
     "Group": "28.2",
     "Class": "28.21",
-    "Activity": "Manufacture of ovens, furnaces and furnace burners"
+    "Activity": "Manufacture of ovens, furnaces and permanent household heating equipment"
   },
   {
     "Section": "C",
@@ -2552,7 +2545,7 @@
     "Division": "28",
     "Group": "28.2",
     "Class": "28.23",
-    "Activity": "Manufacture of office machinery and equipment (except computers and peripheral equipment)"
+    "Activity": "Manufacture of office machinery and equipment, except computers and peripheral equipment"
   },
   {
     "Section": "C",
@@ -2566,7 +2559,7 @@
     "Division": "28",
     "Group": "28.2",
     "Class": "28.25",
-    "Activity": "Manufacture of non-domestic cooling and ventilation equipment"
+    "Activity": "Manufacture of non-domestic air conditioning equipment"
   },
   {
     "Section": "C",
@@ -2601,13 +2594,13 @@
     "Division": "28",
     "Group": "28.4",
     "Class": "28.41",
-    "Activity": "Manufacture of metal forming machinery"
+    "Activity": "Manufacture of metal forming machinery and machine tools for metal work"
   },
   {
     "Section": "C",
     "Division": "28",
     "Group": "28.4",
-    "Class": "28.49",
+    "Class": "28.42",
     "Activity": "Manufacture of other machine tools"
   },
   {
@@ -2657,7 +2650,14 @@
     "Division": "28",
     "Group": "28.9",
     "Class": "28.96",
-    "Activity": "Manufacture of plastic and rubber machinery"
+    "Activity": "Manufacture of plastics and rubber machinery"
+  },
+  {
+    "Section": "C",
+    "Division": "28",
+    "Group": "28.9",
+    "Class": "28.97",
+    "Activity": "Manufacture of additive manufacturing machinery"
   },
   {
     "Section": "C",
@@ -2669,7 +2669,7 @@
   {
     "Section": "C",
     "Division": "29",
-    "Group": "28.9",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacture of motor vehicles, trailers and semi-trailers"
   },
@@ -2692,21 +2692,21 @@
     "Division": "29",
     "Group": "29.2",
     "Class": null,
-    "Activity": "Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers"
+    "Activity": "Manufacture of bodies and coachwork for motor vehicles; manufacture of trailers and semi-trailers"
   },
   {
     "Section": "C",
     "Division": "29",
     "Group": "29.2",
     "Class": "29.20",
-    "Activity": "Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers"
+    "Activity": "Manufacture of bodies and coachwork for motor vehicles; manufacture of trailers and semi-trailers"
   },
   {
     "Section": "C",
     "Division": "29",
     "Group": "29.3",
     "Class": null,
-    "Activity": "Manufacture of parts and accessories for motor vehicles"
+    "Activity": "Manufacture of motor vehicle parts and accessories"
   },
   {
     "Section": "C",
@@ -2725,7 +2725,7 @@
   {
     "Section": "C",
     "Division": "30",
-    "Group": "29.3",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacture of other transport equipment"
   },
@@ -2741,7 +2741,7 @@
     "Division": "30",
     "Group": "30.1",
     "Class": "30.11",
-    "Activity": "Building of ships and floating structures"
+    "Activity": "Building of civilian ships and floating structures"
   },
   {
     "Section": "C",
@@ -2749,6 +2749,13 @@
     "Group": "30.1",
     "Class": "30.12",
     "Activity": "Building of pleasure and sporting boats"
+  },
+  {
+    "Section": "C",
+    "Division": "30",
+    "Group": "30.1",
+    "Class": "30.13",
+    "Activity": "Building of military ships and vessels"
   },
   {
     "Section": "C",
@@ -2775,8 +2782,15 @@
     "Section": "C",
     "Division": "30",
     "Group": "30.3",
-    "Class": "30.30",
-    "Activity": "Manufacture of air and spacecraft and related machinery"
+    "Class": "30.31",
+    "Activity": "Manufacture of civilian air and spacecraft and related machinery"
+  },
+  {
+    "Section": "C",
+    "Division": "30",
+    "Group": "30.3",
+    "Class": "30.32",
+    "Activity": "Manufacture of military air and spacecraft and related machinery"
   },
   {
     "Section": "C",
@@ -2823,7 +2837,7 @@
   {
     "Section": "C",
     "Division": "31",
-    "Group": "30.9",
+    "Group": null,
     "Class": null,
     "Activity": "Manufacture of furniture"
   },
@@ -2838,34 +2852,13 @@
     "Section": "C",
     "Division": "31",
     "Group": "31.0",
-    "Class": "31.01",
-    "Activity": "Manufacture of office and shop furniture"
-  },
-  {
-    "Section": "C",
-    "Division": "31",
-    "Group": "31.0",
-    "Class": "31.02",
-    "Activity": "Manufacture of kitchen furniture"
-  },
-  {
-    "Section": "C",
-    "Division": "31",
-    "Group": "31.0",
-    "Class": "31.03",
-    "Activity": "Manufacture of mattresses"
-  },
-  {
-    "Section": "C",
-    "Division": "31",
-    "Group": "31.0",
-    "Class": "31.09",
-    "Activity": "Manufacture of other furniture"
+    "Class": "31.00",
+    "Activity": "Manufacture of furniture"
   },
   {
     "Section": "C",
     "Division": "32",
-    "Group": "31.0",
+    "Group": null,
     "Class": null,
     "Activity": "Other manufacturing"
   },
@@ -2977,72 +2970,79 @@
   {
     "Section": "C",
     "Division": "33",
-    "Group": "32.9",
+    "Group": null,
     "Class": null,
-    "Activity": "Repair and installation of machinery and equipment"
+    "Activity": "Repair, maintenance and installation of machinery and equipment"
   },
   {
     "Section": "C",
     "Division": "33",
     "Group": "33.1",
     "Class": null,
-    "Activity": "Repair of fabricated metal products, machinery and equipment"
+    "Activity": "Repair and maintenance of fabricated metal products, machinery and equipment"
   },
   {
     "Section": "C",
     "Division": "33",
     "Group": "33.1",
     "Class": "33.11",
-    "Activity": "Repair of fabricated metal products"
+    "Activity": "Repair and maintenance of fabricated metal products"
   },
   {
     "Section": "C",
     "Division": "33",
     "Group": "33.1",
     "Class": "33.12",
-    "Activity": "Repair of machinery"
+    "Activity": "Repair and maintenance of machinery"
   },
   {
     "Section": "C",
     "Division": "33",
     "Group": "33.1",
     "Class": "33.13",
-    "Activity": "Repair of electronic and optical equipment"
+    "Activity": "Repair and maintenance of electronic and optical equipment"
   },
   {
     "Section": "C",
     "Division": "33",
     "Group": "33.1",
     "Class": "33.14",
-    "Activity": "Repair of electrical equipment"
+    "Activity": "Repair and maintenance of electrical equipment"
   },
   {
     "Section": "C",
     "Division": "33",
     "Group": "33.1",
     "Class": "33.15",
-    "Activity": "Repair and maintenance of ships and boats"
+    "Activity": "Repair and maintenance of civilian ships and boats"
   },
   {
     "Section": "C",
     "Division": "33",
     "Group": "33.1",
     "Class": "33.16",
-    "Activity": "Repair and maintenance of aircraft and spacecraft"
+    "Activity": "Repair and maintenance of civilian air and spacecraft"
   },
   {
     "Section": "C",
     "Division": "33",
     "Group": "33.1",
     "Class": "33.17",
-    "Activity": "Repair and maintenance of other transport equipment"
+    "Activity": "Repair and maintenance of other civilian transport equipment"
+  },
+  {
+    "Section": "C",
+    "Division": "33",
+    "Group": "33.1",
+    "Class": "33.18",
+    "Activity": "Repair and maintenance of military fighting vehicles, ships, boats, air and spacecraft"
   },
   {
     "Section": "C",
     "Division": "33",
     "Group": "33.1",
     "Class": "33.19",
-    "Activity": "Repair of other equipment"
+    "Activity": "Repair and maintenance of other equipment"
   },
   {
     "Section": "C",
@@ -3061,14 +3061,14 @@
   {
     "Section": "D",
     "Division": null,
-    "Group": "33.2",
+    "Group": null,
     "Class": null,
-    "Activity": "Electricity, Gas, Steam And Air Conditioning Supply"
+    "Activity": "Electricity, gas, steam and air conditioning supply"
   },
   {
     "Section": "D",
     "Division": "35",
-    "Group": "33.2",
+    "Group": null,
     "Class": null,
     "Activity": "Electricity, gas, steam and air conditioning supply"
   },
@@ -3084,35 +3084,49 @@
     "Division": "35",
     "Group": "35.1",
     "Class": "35.11",
-    "Activity": "Production of electricity"
+    "Activity": "Production of electricity from non-renewable sources"
   },
   {
     "Section": "D",
     "Division": "35",
     "Group": "35.1",
     "Class": "35.12",
-    "Activity": "Transmission of electricity"
+    "Activity": "Production of electricity from renewable sources"
   },
   {
     "Section": "D",
     "Division": "35",
     "Group": "35.1",
     "Class": "35.13",
-    "Activity": "Distribution of electricity"
+    "Activity": "Transmission of electricity"
   },
   {
     "Section": "D",
     "Division": "35",
     "Group": "35.1",
     "Class": "35.14",
+    "Activity": "Distribution of electricity"
+  },
+  {
+    "Section": "D",
+    "Division": "35",
+    "Group": "35.1",
+    "Class": "35.15",
     "Activity": "Trade of electricity"
+  },
+  {
+    "Section": "D",
+    "Division": "35",
+    "Group": "35.1",
+    "Class": "35.16",
+    "Activity": "Storage of electricity"
   },
   {
     "Section": "D",
     "Division": "35",
     "Group": "35.2",
     "Class": null,
-    "Activity": "Manufacture of gas; distribution of gaseous fuels through mains"
+    "Activity": "Manufacture of gas, and distribution of gaseous fuels through mains"
   },
   {
     "Section": "D",
@@ -3138,6 +3152,13 @@
   {
     "Section": "D",
     "Division": "35",
+    "Group": "35.2",
+    "Class": "35.24",
+    "Activity": "Storage of gas as part of network supply services"
+  },
+  {
+    "Section": "D",
+    "Division": "35",
     "Group": "35.3",
     "Class": null,
     "Activity": "Steam and air conditioning supply"
@@ -3150,16 +3171,30 @@
     "Activity": "Steam and air conditioning supply"
   },
   {
+    "Section": "D",
+    "Division": "35",
+    "Group": "35.4",
+    "Class": null,
+    "Activity": "Activities of brokers and agents for electric power and natural gas"
+  },
+  {
+    "Section": "D",
+    "Division": "35",
+    "Group": "35.4",
+    "Class": "35.40",
+    "Activity": "Activities of brokers and agents for electric power and natural gas"
+  },
+  {
     "Section": "E",
     "Division": null,
-    "Group": "35.3",
+    "Group": null,
     "Class": null,
-    "Activity": "Water Supply; Sewerage, Waste Management And Remediation Activities"
+    "Activity": "Water supply; sewerage, waste management and remediation activities"
   },
   {
     "Section": "E",
     "Division": "36",
-    "Group": "35.3",
+    "Group": null,
     "Class": null,
     "Activity": "Water collection, treatment and supply"
   },
@@ -3180,7 +3215,7 @@
   {
     "Section": "E",
     "Division": "37",
-    "Group": "36.0",
+    "Group": null,
     "Class": null,
     "Activity": "Sewerage"
   },
@@ -3201,9 +3236,9 @@
   {
     "Section": "E",
     "Division": "38",
-    "Group": "37.0",
+    "Group": null,
     "Class": null,
-    "Activity": "Waste collection, treatment and disposal activities; materials recovery"
+    "Activity": "Waste collection, recovery and disposal activities"
   },
   {
     "Section": "E",
@@ -3231,110 +3266,110 @@
     "Division": "38",
     "Group": "38.2",
     "Class": null,
-    "Activity": "Waste treatment and disposal"
+    "Activity": "Waste recovery"
   },
   {
     "Section": "E",
     "Division": "38",
     "Group": "38.2",
     "Class": "38.21",
-    "Activity": "Treatment and disposal of non-hazardous waste"
+    "Activity": "Materials recovery"
   },
   {
     "Section": "E",
     "Division": "38",
     "Group": "38.2",
     "Class": "38.22",
-    "Activity": "Treatment and disposal of hazardous waste"
+    "Activity": "Energy recovery"
+  },
+  {
+    "Section": "E",
+    "Division": "38",
+    "Group": "38.2",
+    "Class": "38.23",
+    "Activity": "Other waste recovery"
   },
   {
     "Section": "E",
     "Division": "38",
     "Group": "38.3",
     "Class": null,
-    "Activity": "Materials recovery"
+    "Activity": "Waste disposal without recovery"
   },
   {
     "Section": "E",
     "Division": "38",
     "Group": "38.3",
     "Class": "38.31",
-    "Activity": "Dismantling of wrecks"
+    "Activity": "Incineration without energy recovery"
   },
   {
     "Section": "E",
     "Division": "38",
     "Group": "38.3",
     "Class": "38.32",
-    "Activity": "Recovery of sorted materials"
+    "Activity": "Landfilling or permanent storage"
+  },
+  {
+    "Section": "E",
+    "Division": "38",
+    "Group": "38.3",
+    "Class": "38.33",
+    "Activity": "Other waste disposal"
   },
   {
     "Section": "E",
     "Division": "39",
-    "Group": "38.3",
+    "Group": null,
     "Class": null,
-    "Activity": "Remediation activities and other waste management services"
+    "Activity": "Remediation activities and other waste management service activities"
   },
   {
     "Section": "E",
     "Division": "39",
     "Group": "39.0",
     "Class": null,
-    "Activity": "Remediation activities and other waste management services"
+    "Activity": "Remediation activities and other waste management service activities"
   },
   {
     "Section": "E",
     "Division": "39",
     "Group": "39.0",
     "Class": "39.00",
-    "Activity": "Remediation activities and other waste management services"
+    "Activity": "Remediation activities and other waste management service activities"
   },
   {
     "Section": "F",
     "Division": null,
-    "Group": "39.0",
+    "Group": null,
     "Class": null,
     "Activity": "Construction"
   },
   {
     "Section": "F",
     "Division": "41",
-    "Group": "39.0",
-    "Class": null,
-    "Activity": "Construction of buildings"
-  },
-  {
-    "Section": "F",
-    "Division": "41",
-    "Group": "41.1",
-    "Class": null,
-    "Activity": "Development of building projects"
-  },
-  {
-    "Section": "F",
-    "Division": "41",
-    "Group": "41.1",
-    "Class": "41.10",
-    "Activity": "Development of building projects"
-  },
-  {
-    "Section": "F",
-    "Division": "41",
-    "Group": "41.2",
+    "Group": null,
     "Class": null,
     "Activity": "Construction of residential and non-residential buildings"
   },
   {
     "Section": "F",
     "Division": "41",
-    "Group": "41.2",
-    "Class": "41.20",
+    "Group": "41.0",
+    "Class": null,
+    "Activity": "Construction of residential and non-residential buildings"
+  },
+  {
+    "Section": "F",
+    "Division": "41",
+    "Group": "41.0",
+    "Class": "41.00",
     "Activity": "Construction of residential and non-residential buildings"
   },
   {
     "Section": "F",
     "Division": "42",
-    "Group": "41.2",
+    "Group": null,
     "Class": null,
     "Activity": "Civil engineering"
   },
@@ -3411,7 +3446,7 @@
   {
     "Section": "F",
     "Division": "43",
-    "Group": "42.9",
+    "Group": null,
     "Class": null,
     "Activity": "Specialised construction activities"
   },
@@ -3462,13 +3497,20 @@
     "Division": "43",
     "Group": "43.2",
     "Class": "43.22",
-    "Activity": "Plumbing, heat and air conditioning installation"
+    "Activity": "Plumbing, heat and air-conditioning installation"
   },
   {
     "Section": "F",
     "Division": "43",
     "Group": "43.2",
-    "Class": "43.29",
+    "Class": "43.23",
+    "Activity": "Installation of insulation"
+  },
+  {
+    "Section": "F",
+    "Division": "43",
+    "Group": "43.2",
+    "Class": "43.24",
     "Activity": "Other construction installation"
   },
   {
@@ -3510,8 +3552,57 @@
     "Section": "F",
     "Division": "43",
     "Group": "43.3",
-    "Class": "43.39",
+    "Class": "43.35",
     "Activity": "Other building completion and finishing"
+  },
+  {
+    "Section": "F",
+    "Division": "43",
+    "Group": "43.4",
+    "Class": null,
+    "Activity": "Specialised construction activities in construction of buildings"
+  },
+  {
+    "Section": "F",
+    "Division": "43",
+    "Group": "43.4",
+    "Class": "43.41",
+    "Activity": "Roofing activities"
+  },
+  {
+    "Section": "F",
+    "Division": "43",
+    "Group": "43.4",
+    "Class": "43.42",
+    "Activity": "Other specialised construction activities in construction of buildings"
+  },
+  {
+    "Section": "F",
+    "Division": "43",
+    "Group": "43.5",
+    "Class": null,
+    "Activity": "Specialised construction activities in civil engineering"
+  },
+  {
+    "Section": "F",
+    "Division": "43",
+    "Group": "43.5",
+    "Class": "43.50",
+    "Activity": "Specialised construction activities in civil engineering"
+  },
+  {
+    "Section": "F",
+    "Division": "43",
+    "Group": "43.6",
+    "Class": null,
+    "Activity": "Intermediation service activities for specialised construction services"
+  },
+  {
+    "Section": "F",
+    "Division": "43",
+    "Group": "43.6",
+    "Class": "43.60",
+    "Activity": "Intermediation service activities for specialised construction services"
   },
   {
     "Section": "F",
@@ -3525,7 +3616,7 @@
     "Division": "43",
     "Group": "43.9",
     "Class": "43.91",
-    "Activity": "Roofing activities"
+    "Activity": "Masonry and bricklaying activities"
   },
   {
     "Section": "F",
@@ -3537,93 +3628,16 @@
   {
     "Section": "G",
     "Division": null,
-    "Group": "43.9",
+    "Group": null,
     "Class": null,
-    "Activity": "Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles"
-  },
-  {
-    "Section": "G",
-    "Division": "45",
-    "Group": "43.9",
-    "Class": null,
-    "Activity": "Wholesale and retail trade and repair of motor vehicles and motorcycles"
-  },
-  {
-    "Section": "G",
-    "Division": "45",
-    "Group": "45.1",
-    "Class": null,
-    "Activity": "Sale of motor vehicles"
-  },
-  {
-    "Section": "G",
-    "Division": "45",
-    "Group": "45.1",
-    "Class": "45.11",
-    "Activity": "Sale of cars and light motor vehicles"
-  },
-  {
-    "Section": "G",
-    "Division": "45",
-    "Group": "45.1",
-    "Class": "45.19",
-    "Activity": "Sale of other motor vehicles"
-  },
-  {
-    "Section": "G",
-    "Division": "45",
-    "Group": "45.2",
-    "Class": null,
-    "Activity": "Maintenance and repair of motor vehicles"
-  },
-  {
-    "Section": "G",
-    "Division": "45",
-    "Group": "45.2",
-    "Class": "45.20",
-    "Activity": "Maintenance and repair of motor vehicles"
-  },
-  {
-    "Section": "G",
-    "Division": "45",
-    "Group": "45.3",
-    "Class": null,
-    "Activity": "Sale of motor vehicle parts and accessories"
-  },
-  {
-    "Section": "G",
-    "Division": "45",
-    "Group": "45.3",
-    "Class": "45.31",
-    "Activity": "Wholesale trade of motor vehicle parts and accessories"
-  },
-  {
-    "Section": "G",
-    "Division": "45",
-    "Group": "45.3",
-    "Class": "45.32",
-    "Activity": "Retail trade of motor vehicle parts and accessories"
-  },
-  {
-    "Section": "G",
-    "Division": "45",
-    "Group": "45.4",
-    "Class": null,
-    "Activity": "Sale, maintenance and repair of motorcycles and related parts and accessories"
-  },
-  {
-    "Section": "G",
-    "Division": "45",
-    "Group": "45.4",
-    "Class": "45.40",
-    "Activity": "Sale, maintenance and repair of motorcycles and related parts and accessories"
+    "Activity": "Wholesale and retail trade"
   },
   {
     "Section": "G",
     "Division": "46",
-    "Group": "45.4",
+    "Group": null,
     "Class": null,
-    "Activity": "Wholesale trade, except of motor vehicles and motorcycles"
+    "Activity": "Wholesale trade"
   },
   {
     "Section": "G",
@@ -3637,63 +3651,63 @@
     "Division": "46",
     "Group": "46.1",
     "Class": "46.11",
-    "Activity": "Agents involved in the sale of agricultural raw materials, live animals, textile raw materials and semi-finished goods"
+    "Activity": "Activities of agents involved in the wholesale of agricultural raw materials, live animals, textile raw materials and semi-finished goods"
   },
   {
     "Section": "G",
     "Division": "46",
     "Group": "46.1",
     "Class": "46.12",
-    "Activity": "Agents involved in the sale of fuels, ores, metals and industrial chemicals"
+    "Activity": "Activities of agents involved in the wholesale of fuels, ores, metals and industrial chemicals"
   },
   {
     "Section": "G",
     "Division": "46",
     "Group": "46.1",
     "Class": "46.13",
-    "Activity": "Agents involved in the sale of timber and building materials"
+    "Activity": "Activities of agents involved in the wholesale of timber and building materials"
   },
   {
     "Section": "G",
     "Division": "46",
     "Group": "46.1",
     "Class": "46.14",
-    "Activity": "Agents involved in the sale of machinery, industrial equipment, ships and aircraft"
+    "Activity": "Activities of agents involved in the wholesale of machinery, industrial equipment, ships and aircraft"
   },
   {
     "Section": "G",
     "Division": "46",
     "Group": "46.1",
     "Class": "46.15",
-    "Activity": "Agents involved in the sale of furniture, household goods, hardware and ironmongery"
+    "Activity": "Activities of agents involved in the wholesale of furniture, household goods, hardware and ironmongery"
   },
   {
     "Section": "G",
     "Division": "46",
     "Group": "46.1",
     "Class": "46.16",
-    "Activity": "Agents involved in the sale of textiles, clothing, fur, footwear and leather goods"
+    "Activity": "Activities of agents involved in the wholesale of textiles, clothing, fur, footwear and leather goods"
   },
   {
     "Section": "G",
     "Division": "46",
     "Group": "46.1",
     "Class": "46.17",
-    "Activity": "Agents involved in the sale of food, beverages and tobacco"
+    "Activity": "Activities of agents involved in the wholesale of food, beverages and tobacco"
   },
   {
     "Section": "G",
     "Division": "46",
     "Group": "46.1",
     "Class": "46.18",
-    "Activity": "Agents specialised in the sale of other particular products"
+    "Activity": "Activities of agents involved in the wholesale of other particular products"
   },
   {
     "Section": "G",
     "Division": "46",
     "Group": "46.1",
     "Class": "46.19",
-    "Activity": "Agents involved in the sale of a variety of goods"
+    "Activity": "Activities of agents involved in non-specialised wholesale"
   },
   {
     "Section": "G",
@@ -3749,7 +3763,7 @@
     "Division": "46",
     "Group": "46.3",
     "Class": "46.32",
-    "Activity": "Wholesale of meat and meat products"
+    "Activity": "Wholesale of meat, meat products, fish and fish products"
   },
   {
     "Section": "G",
@@ -3777,7 +3791,7 @@
     "Division": "46",
     "Group": "46.3",
     "Class": "46.36",
-    "Activity": "Wholesale of sugar and chocolate and sugar confectionery"
+    "Activity": "Wholesale of sugar, chocolate and sugar confectionery"
   },
   {
     "Section": "G",
@@ -3791,7 +3805,7 @@
     "Division": "46",
     "Group": "46.3",
     "Class": "46.38",
-    "Activity": "Wholesale of other food, including fish, crustaceans and molluscs"
+    "Activity": "Wholesale of other food"
   },
   {
     "Section": "G",
@@ -3847,14 +3861,14 @@
     "Division": "46",
     "Group": "46.4",
     "Class": "46.46",
-    "Activity": "Wholesale of pharmaceutical goods"
+    "Activity": "Wholesale of pharmaceutical and medical goods"
   },
   {
     "Section": "G",
     "Division": "46",
     "Group": "46.4",
     "Class": "46.47",
-    "Activity": "Wholesale of furniture, carpets and lighting equipment"
+    "Activity": "Wholesale of household, office and shop furniture, carpets and lighting equipment"
   },
   {
     "Section": "G",
@@ -3881,15 +3895,8 @@
     "Section": "G",
     "Division": "46",
     "Group": "46.5",
-    "Class": "46.51",
-    "Activity": "Wholesale of computers, computer peripheral equipment and software"
-  },
-  {
-    "Section": "G",
-    "Division": "46",
-    "Group": "46.5",
-    "Class": "46.52",
-    "Activity": "Wholesale of electronic and telecommunications equipment and parts"
+    "Class": "46.50",
+    "Activity": "Wholesale of information and communication equipment"
   },
   {
     "Section": "G",
@@ -3924,27 +3931,6 @@
     "Division": "46",
     "Group": "46.6",
     "Class": "46.64",
-    "Activity": "Wholesale of machinery for the textile industry and of sewing and knitting machines"
-  },
-  {
-    "Section": "G",
-    "Division": "46",
-    "Group": "46.6",
-    "Class": "46.65",
-    "Activity": "Wholesale of office furniture"
-  },
-  {
-    "Section": "G",
-    "Division": "46",
-    "Group": "46.6",
-    "Class": "46.66",
-    "Activity": "Wholesale of other office machinery and equipment"
-  },
-  {
-    "Section": "G",
-    "Division": "46",
-    "Group": "46.6",
-    "Class": "46.69",
     "Activity": "Wholesale of other machinery and equipment"
   },
   {
@@ -3952,56 +3938,91 @@
     "Division": "46",
     "Group": "46.7",
     "Class": null,
-    "Activity": "Other specialised wholesale"
+    "Activity": "Wholesale of motor vehicles, motorcycles and related parts and accessories"
   },
   {
     "Section": "G",
     "Division": "46",
     "Group": "46.7",
     "Class": "46.71",
-    "Activity": "Wholesale of solid, liquid and gaseous fuels and related products"
+    "Activity": "Wholesale of motor vehicles"
   },
   {
     "Section": "G",
     "Division": "46",
     "Group": "46.7",
     "Class": "46.72",
-    "Activity": "Wholesale of metals and metal ores"
+    "Activity": "Wholesale of motor vehicle parts and accessories"
   },
   {
     "Section": "G",
     "Division": "46",
     "Group": "46.7",
     "Class": "46.73",
+    "Activity": "Wholesale of motorcycles, motorcycle parts and accessories"
+  },
+  {
+    "Section": "G",
+    "Division": "46",
+    "Group": "46.8",
+    "Class": null,
+    "Activity": "Other specialised wholesale"
+  },
+  {
+    "Section": "G",
+    "Division": "46",
+    "Group": "46.8",
+    "Class": "46.81",
+    "Activity": "Wholesale of solid, liquid and gaseous fuels and related products"
+  },
+  {
+    "Section": "G",
+    "Division": "46",
+    "Group": "46.8",
+    "Class": "46.82",
+    "Activity": "Wholesale of metals and metal ores"
+  },
+  {
+    "Section": "G",
+    "Division": "46",
+    "Group": "46.8",
+    "Class": "46.83",
     "Activity": "Wholesale of wood, construction materials and sanitary equipment"
   },
   {
     "Section": "G",
     "Division": "46",
-    "Group": "46.7",
-    "Class": "46.74",
+    "Group": "46.8",
+    "Class": "46.84",
     "Activity": "Wholesale of hardware, plumbing and heating equipment and supplies"
   },
   {
     "Section": "G",
     "Division": "46",
-    "Group": "46.7",
-    "Class": "46.75",
+    "Group": "46.8",
+    "Class": "46.85",
     "Activity": "Wholesale of chemical products"
   },
   {
     "Section": "G",
     "Division": "46",
-    "Group": "46.7",
-    "Class": "46.76",
+    "Group": "46.8",
+    "Class": "46.86",
     "Activity": "Wholesale of other intermediate products"
   },
   {
     "Section": "G",
     "Division": "46",
-    "Group": "46.7",
-    "Class": "46.77",
+    "Group": "46.8",
+    "Class": "46.87",
     "Activity": "Wholesale of waste and scrap"
+  },
+  {
+    "Section": "G",
+    "Division": "46",
+    "Group": "46.8",
+    "Class": "46.89",
+    "Activity": "Other specialised wholesale n.e.c."
   },
   {
     "Section": "G",
@@ -4020,343 +4041,329 @@
   {
     "Section": "G",
     "Division": "47",
-    "Group": "46.9",
+    "Group": null,
     "Class": null,
-    "Activity": "Retail trade, except of motor vehicles and motorcycles"
+    "Activity": "Retail trade"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.1",
     "Class": null,
-    "Activity": "Retail sale in non-specialised stores"
+    "Activity": "Non-specialised retail sale"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.1",
     "Class": "47.11",
-    "Activity": "Retail sale in non-specialised stores with food, beverages or tobacco predominating"
+    "Activity": "Non-specialised retail sale of predominately food, beverages or tobacco"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.1",
-    "Class": "47.19",
-    "Activity": "Other retail sale in non-specialised stores"
+    "Class": "47.12",
+    "Activity": "Other non-specialised retail sale"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.2",
     "Class": null,
-    "Activity": "Retail sale of food, beverages and tobacco in specialised stores"
+    "Activity": "Retail sale of food, beverages and tobacco"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.2",
     "Class": "47.21",
-    "Activity": "Retail sale of fruit and vegetables in specialised stores"
+    "Activity": "Retail sale of fruit and vegetables"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.2",
     "Class": "47.22",
-    "Activity": "Retail sale of meat and meat products in specialised stores"
+    "Activity": "Retail sale of meat and meat products"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.2",
     "Class": "47.23",
-    "Activity": "Retail sale of fish, crustaceans and molluscs in specialised stores"
+    "Activity": "Retail sale of fish, crustaceans and molluscs"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.2",
     "Class": "47.24",
-    "Activity": "Retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores"
+    "Activity": "Retail sale of bread, cake and confectionery"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.2",
     "Class": "47.25",
-    "Activity": "Retail sale of beverages in specialised stores"
+    "Activity": "Retail sale of beverages"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.2",
     "Class": "47.26",
-    "Activity": "Retail sale of tobacco products in specialised stores"
+    "Activity": "Retail sale of tobacco products"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.2",
-    "Class": "47.29",
-    "Activity": "Other retail sale of food in specialised stores"
+    "Class": "47.27",
+    "Activity": "Retail sale of other food"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.3",
     "Class": null,
-    "Activity": "Retail sale of automotive fuel in specialised stores"
+    "Activity": "Retail sale of automotive fuel"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.3",
     "Class": "47.30",
-    "Activity": "Retail sale of automotive fuel in specialised stores"
+    "Activity": "Retail sale of automotive fuel"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.4",
     "Class": null,
-    "Activity": "Retail sale of information and communication equipment in specialised stores"
+    "Activity": "Retail sale of information and communication equipment"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.4",
-    "Class": "47.41",
-    "Activity": "Retail sale of computers, peripheral units and software in specialised stores"
-  },
-  {
-    "Section": "G",
-    "Division": "47",
-    "Group": "47.4",
-    "Class": "47.42",
-    "Activity": "Retail sale of telecommunications equipment in specialised stores"
-  },
-  {
-    "Section": "G",
-    "Division": "47",
-    "Group": "47.4",
-    "Class": "47.43",
-    "Activity": "Retail sale of audio and video equipment in specialised stores"
+    "Class": "47.40",
+    "Activity": "Retail sale of information and communication equipment"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.5",
     "Class": null,
-    "Activity": "Retail sale of other household equipment in specialised stores"
+    "Activity": "Retail sale of other household equipment"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.5",
     "Class": "47.51",
-    "Activity": "Retail sale of textiles in specialised stores"
+    "Activity": "Retail sale of textiles"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.5",
     "Class": "47.52",
-    "Activity": "Retail sale of hardware, paints and glass in specialised stores"
+    "Activity": "Retail sale of hardware, building materials, paints and glass"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.5",
     "Class": "47.53",
-    "Activity": "Retail sale of carpets, rugs, wall and floor coverings in specialised stores"
+    "Activity": "Retail sale of carpets, rugs, wall and floor coverings"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.5",
     "Class": "47.54",
-    "Activity": "Retail sale of electrical household appliances in specialised stores"
+    "Activity": "Retail sale of electrical household appliances"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.5",
-    "Class": "47.59",
-    "Activity": "Retail sale of furniture, lighting equipment and other household articles in specialised stores"
+    "Class": "47.55",
+    "Activity": "Retail sale of furniture, lighting equipment, tableware and other household goods"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.6",
     "Class": null,
-    "Activity": "Retail sale of cultural and recreation goods in specialised stores"
+    "Activity": "Retail sale of cultural and recreation goods"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.6",
     "Class": "47.61",
-    "Activity": "Retail sale of books in specialised stores"
+    "Activity": "Retail sale of books"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.6",
     "Class": "47.62",
-    "Activity": "Retail sale of newspapers and stationery in specialised stores"
+    "Activity": "Retail sale of newspapers, and other periodical publications and stationery"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.6",
     "Class": "47.63",
-    "Activity": "Retail sale of music and video recordings in specialised stores"
+    "Activity": "Retail sale of sporting equipment"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.6",
     "Class": "47.64",
-    "Activity": "Retail sale of sporting equipment in specialised stores"
+    "Activity": "Retail sale of games and toys"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.6",
-    "Class": "47.65",
-    "Activity": "Retail sale of games and toys in specialised stores"
+    "Class": "47.69",
+    "Activity": "Retail sale of cultural and recreational goods n.e.c."
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.7",
     "Class": null,
-    "Activity": "Retail sale of other goods in specialised stores"
+    "Activity": "Retail sale of other goods, except motor vehicles and motorcycles"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.7",
     "Class": "47.71",
-    "Activity": "Retail sale of clothing in specialised stores"
+    "Activity": "Retail sale of clothing"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.7",
     "Class": "47.72",
-    "Activity": "Retail sale of footwear and leather goods in specialised stores"
+    "Activity": "Retail sale of footwear and leather goods"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.7",
     "Class": "47.73",
-    "Activity": "Dispensing chemist in specialised stores"
+    "Activity": "Retail sale of pharmaceutical products"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.7",
     "Class": "47.74",
-    "Activity": "Retail sale of medical and orthopaedic goods in specialised stores"
+    "Activity": "Retail sale of medical and orthopaedic goods"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.7",
     "Class": "47.75",
-    "Activity": "Retail sale of cosmetic and toilet articles in specialised stores"
+    "Activity": "Retail sale of cosmetic and toilet articles"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.7",
     "Class": "47.76",
-    "Activity": "Retail sale of flowers, plants, seeds, fertilisers, pet animals and pet food in specialised stores"
+    "Activity": "Retail sale of flowers, plants, fertilisers, pets and pet food"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.7",
     "Class": "47.77",
-    "Activity": "Retail sale of watches and jewellery in specialised stores"
+    "Activity": "Retail sale of watches and jewellery"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.7",
     "Class": "47.78",
-    "Activity": "Other retail sale of new goods in specialised stores"
+    "Activity": "Retail sale of other new goods"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.7",
     "Class": "47.79",
-    "Activity": "Retail sale of second-hand goods in stores"
+    "Activity": "Retail sale of second-hand goods"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.8",
     "Class": null,
-    "Activity": "Retail sale via stalls and markets"
+    "Activity": "Retail sale of motor vehicles, motorcycles and related parts and accessories"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.8",
     "Class": "47.81",
-    "Activity": "Retail sale via stalls and markets of food, beverages and tobacco products"
+    "Activity": "Retail sale of motor vehicles"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.8",
     "Class": "47.82",
-    "Activity": "Retail sale via stalls and markets of textiles, clothing and footwear"
+    "Activity": "Retail sale of motor vehicle parts and accessories"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.8",
-    "Class": "47.89",
-    "Activity": "Retail sale via stalls and markets of other goods"
+    "Class": "47.83",
+    "Activity": "Retail sale of motorcycles, motorcycle parts and accessories"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.9",
     "Class": null,
-    "Activity": "Retail trade not in stores, stalls or markets"
+    "Activity": "Intermediation service activities for retail sale"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.9",
     "Class": "47.91",
-    "Activity": "Retail sale via mail order houses or via Internet"
+    "Activity": "Intermediation service activities for non-specialised retail sale"
   },
   {
     "Section": "G",
     "Division": "47",
     "Group": "47.9",
-    "Class": "47.99",
-    "Activity": "Other retail sale not in stores, stalls or markets"
+    "Class": "47.92",
+    "Activity": "Intermediation service activities for specialised retail sale"
   },
   {
     "Section": "H",
     "Division": null,
-    "Group": "47.9",
+    "Group": null,
     "Class": null,
-    "Activity": "Transportation And Storage"
+    "Activity": "Transportation and storage"
   },
   {
     "Section": "H",
     "Division": "49",
-    "Group": "47.9",
+    "Group": null,
     "Class": null,
     "Activity": "Land transport and transport via pipelines"
   },
@@ -4365,14 +4372,21 @@
     "Division": "49",
     "Group": "49.1",
     "Class": null,
-    "Activity": "Passenger rail transport, interurban"
+    "Activity": "Passenger rail transport"
   },
   {
     "Section": "H",
     "Division": "49",
     "Group": "49.1",
-    "Class": "49.10",
-    "Activity": "Passenger rail transport, interurban"
+    "Class": "49.11",
+    "Activity": "Passenger heavy rail transport"
+  },
+  {
+    "Section": "H",
+    "Division": "49",
+    "Group": "49.1",
+    "Class": "49.12",
+    "Activity": "Other passenger rail transport"
   },
   {
     "Section": "H",
@@ -4400,14 +4414,28 @@
     "Division": "49",
     "Group": "49.3",
     "Class": "49.31",
-    "Activity": "Urban and suburban passenger land transport"
+    "Activity": "Scheduled passenger transport by road"
   },
   {
     "Section": "H",
     "Division": "49",
     "Group": "49.3",
     "Class": "49.32",
-    "Activity": "Taxi operation"
+    "Activity": "Non-scheduled passenger transport by road"
+  },
+  {
+    "Section": "H",
+    "Division": "49",
+    "Group": "49.3",
+    "Class": "49.33",
+    "Activity": "On-demand passenger transport service activities by vehicle with driver"
+  },
+  {
+    "Section": "H",
+    "Division": "49",
+    "Group": "49.3",
+    "Class": "49.34",
+    "Activity": "Passenger transport by cableways and ski lifts"
   },
   {
     "Section": "H",
@@ -4454,7 +4482,7 @@
   {
     "Section": "H",
     "Division": "50",
-    "Group": "49.5",
+    "Group": null,
     "Class": null,
     "Activity": "Water transport"
   },
@@ -4517,7 +4545,7 @@
   {
     "Section": "H",
     "Division": "51",
-    "Group": "50.4",
+    "Group": null,
     "Class": null,
     "Activity": "Air transport"
   },
@@ -4559,9 +4587,9 @@
   {
     "Section": "H",
     "Division": "52",
-    "Group": "51.2",
+    "Group": null,
     "Class": null,
-    "Activity": "Warehousing and support activities for transportation"
+    "Activity": "Warehousing, storage and support activities for transportation"
   },
   {
     "Section": "H",
@@ -4616,13 +4644,41 @@
     "Section": "H",
     "Division": "52",
     "Group": "52.2",
-    "Class": "52.29",
-    "Activity": "Other transportation support activities"
+    "Class": "52.25",
+    "Activity": "Logistics service activities"
+  },
+  {
+    "Section": "H",
+    "Division": "52",
+    "Group": "52.2",
+    "Class": "52.26",
+    "Activity": "Other support activities for transportation"
+  },
+  {
+    "Section": "H",
+    "Division": "52",
+    "Group": "52.3",
+    "Class": null,
+    "Activity": "Intermediation service activities for transportation"
+  },
+  {
+    "Section": "H",
+    "Division": "52",
+    "Group": "52.3",
+    "Class": "52.31",
+    "Activity": "Intermediation service activities for freight transportation"
+  },
+  {
+    "Section": "H",
+    "Division": "52",
+    "Group": "52.3",
+    "Class": "52.32",
+    "Activity": "Intermediation service activities for passenger transportation"
   },
   {
     "Section": "H",
     "Division": "53",
-    "Group": "52.2",
+    "Group": null,
     "Class": null,
     "Activity": "Postal and courier activities"
   },
@@ -4655,16 +4711,30 @@
     "Activity": "Other postal and courier activities"
   },
   {
+    "Section": "H",
+    "Division": "53",
+    "Group": "53.3",
+    "Class": null,
+    "Activity": "Intermediation service activities for postal and courier activities"
+  },
+  {
+    "Section": "H",
+    "Division": "53",
+    "Group": "53.3",
+    "Class": "53.30",
+    "Activity": "Intermediation service activities for postal and courier activities"
+  },
+  {
     "Section": "I",
     "Division": null,
-    "Group": "53.2",
+    "Group": null,
     "Class": null,
-    "Activity": "Accommodation And Food Service Activities"
+    "Activity": "Accommodation and food service activities"
   },
   {
     "Section": "I",
     "Division": "55",
-    "Group": "53.2",
+    "Group": null,
     "Class": null,
     "Activity": "Accommodation"
   },
@@ -4701,14 +4771,28 @@
     "Division": "55",
     "Group": "55.3",
     "Class": null,
-    "Activity": "Camping grounds, recreational vehicle parks and trailer parks"
+    "Activity": "Camping grounds and recreational vehicle parks"
   },
   {
     "Section": "I",
     "Division": "55",
     "Group": "55.3",
     "Class": "55.30",
-    "Activity": "Camping grounds, recreational vehicle parks and trailer parks"
+    "Activity": "Camping grounds and recreational vehicle parks"
+  },
+  {
+    "Section": "I",
+    "Division": "55",
+    "Group": "55.4",
+    "Class": null,
+    "Activity": "Intermediation service activities for accommodation"
+  },
+  {
+    "Section": "I",
+    "Division": "55",
+    "Group": "55.4",
+    "Class": "55.40",
+    "Activity": "Intermediation service activities for accommodation"
   },
   {
     "Section": "I",
@@ -4727,7 +4811,7 @@
   {
     "Section": "I",
     "Division": "56",
-    "Group": "55.9",
+    "Group": null,
     "Class": null,
     "Activity": "Food and beverage service activities"
   },
@@ -4742,15 +4826,22 @@
     "Section": "I",
     "Division": "56",
     "Group": "56.1",
-    "Class": "56.10",
-    "Activity": "Restaurants and mobile food service activities"
+    "Class": "56.11",
+    "Activity": "Restaurant activities"
+  },
+  {
+    "Section": "I",
+    "Division": "56",
+    "Group": "56.1",
+    "Class": "56.12",
+    "Activity": "Mobile food service activities"
   },
   {
     "Section": "I",
     "Division": "56",
     "Group": "56.2",
     "Class": null,
-    "Activity": "Event catering and other food service activities"
+    "Activity": "Event catering, contract catering service activities and other food service activities"
   },
   {
     "Section": "I",
@@ -4763,8 +4854,8 @@
     "Section": "I",
     "Division": "56",
     "Group": "56.2",
-    "Class": "56.29",
-    "Activity": "Other food service activities"
+    "Class": "56.22",
+    "Activity": "Contract catering service activities and other food service activities"
   },
   {
     "Section": "I",
@@ -4781,16 +4872,30 @@
     "Activity": "Beverage serving activities"
   },
   {
+    "Section": "I",
+    "Division": "56",
+    "Group": "56.4",
+    "Class": null,
+    "Activity": "Intermediation service activities for food and beverage services activities"
+  },
+  {
+    "Section": "I",
+    "Division": "56",
+    "Group": "56.4",
+    "Class": "56.40",
+    "Activity": "Intermediation service activities for food and beverage services activities"
+  },
+  {
     "Section": "J",
     "Division": null,
-    "Group": "56.3",
+    "Group": null,
     "Class": null,
-    "Activity": "Information And Communication"
+    "Activity": "Publishing, broadcasting, and content production and distribution activities"
   },
   {
     "Section": "J",
     "Division": "58",
-    "Group": "56.3",
+    "Group": null,
     "Class": null,
     "Activity": "Publishing activities"
   },
@@ -4799,34 +4904,27 @@
     "Division": "58",
     "Group": "58.1",
     "Class": null,
-    "Activity": "Publishing of books, periodicals and other publishing activities"
+    "Activity": "Publishing of books, newspapers and other publishing activities, except software publishing"
   },
   {
     "Section": "J",
     "Division": "58",
     "Group": "58.1",
     "Class": "58.11",
-    "Activity": "Book publishing"
+    "Activity": "Publishing of books"
   },
   {
     "Section": "J",
     "Division": "58",
     "Group": "58.1",
     "Class": "58.12",
-    "Activity": "Publishing of directories and mailing lists"
-  },
-  {
-    "Section": "J",
-    "Division": "58",
-    "Group": "58.1",
-    "Class": "58.13",
     "Activity": "Publishing of newspapers"
   },
   {
     "Section": "J",
     "Division": "58",
     "Group": "58.1",
-    "Class": "58.14",
+    "Class": "58.13",
     "Activity": "Publishing of journals and periodicals"
   },
   {
@@ -4834,7 +4932,7 @@
     "Division": "58",
     "Group": "58.1",
     "Class": "58.19",
-    "Activity": "Other publishing activities"
+    "Activity": "Other publishing activities, except software publishing"
   },
   {
     "Section": "J",
@@ -4848,7 +4946,7 @@
     "Division": "58",
     "Group": "58.2",
     "Class": "58.21",
-    "Activity": "Publishing of computer games"
+    "Activity": "Publishing of video games"
   },
   {
     "Section": "J",
@@ -4860,7 +4958,7 @@
   {
     "Section": "J",
     "Division": "59",
-    "Group": "58.2",
+    "Group": null,
     "Class": null,
     "Activity": "Motion picture, video and television programme production, sound recording and music publishing activities"
   },
@@ -4890,7 +4988,7 @@
     "Division": "59",
     "Group": "59.1",
     "Class": "59.13",
-    "Activity": "Motion picture, video and television programme distribution activities"
+    "Activity": "Motion picture and video distribution activities"
   },
   {
     "Section": "J",
@@ -4916,2056 +5014,2315 @@
   {
     "Section": "J",
     "Division": "60",
-    "Group": "59.2",
+    "Group": null,
     "Class": null,
-    "Activity": "Programming and broadcasting activities"
+    "Activity": "Programming, broadcasting, news agency and other content distribution activities"
   },
   {
     "Section": "J",
     "Division": "60",
     "Group": "60.1",
     "Class": null,
-    "Activity": "Radio broadcasting"
+    "Activity": "Radio broadcasting and audio distribution activities"
   },
   {
     "Section": "J",
     "Division": "60",
     "Group": "60.1",
     "Class": "60.10",
-    "Activity": "Radio broadcasting"
+    "Activity": "Radio broadcasting and audio distribution activities"
   },
   {
     "Section": "J",
     "Division": "60",
     "Group": "60.2",
     "Class": null,
-    "Activity": "Television programming and broadcasting activities"
+    "Activity": "Television programming, broadcasting and video distribution activities"
   },
   {
     "Section": "J",
     "Division": "60",
     "Group": "60.2",
     "Class": "60.20",
-    "Activity": "Television programming and broadcasting activities"
+    "Activity": "Television programming, broadcasting and video distribution activities"
   },
   {
     "Section": "J",
-    "Division": "61",
-    "Group": "60.2",
+    "Division": "60",
+    "Group": "60.3",
     "Class": null,
-    "Activity": "Telecommunications"
+    "Activity": "News agency and other content distribution activities"
   },
   {
     "Section": "J",
-    "Division": "61",
-    "Group": "61.1",
-    "Class": null,
-    "Activity": "Wired telecommunications activities"
-  },
-  {
-    "Section": "J",
-    "Division": "61",
-    "Group": "61.1",
-    "Class": "61.10",
-    "Activity": "Wired telecommunications activities"
-  },
-  {
-    "Section": "J",
-    "Division": "61",
-    "Group": "61.2",
-    "Class": null,
-    "Activity": "Wireless telecommunications activities"
-  },
-  {
-    "Section": "J",
-    "Division": "61",
-    "Group": "61.2",
-    "Class": "61.20",
-    "Activity": "Wireless telecommunications activities"
-  },
-  {
-    "Section": "J",
-    "Division": "61",
-    "Group": "61.3",
-    "Class": null,
-    "Activity": "Satellite telecommunications activities"
-  },
-  {
-    "Section": "J",
-    "Division": "61",
-    "Group": "61.3",
-    "Class": "61.30",
-    "Activity": "Satellite telecommunications activities"
-  },
-  {
-    "Section": "J",
-    "Division": "61",
-    "Group": "61.9",
-    "Class": null,
-    "Activity": "Other telecommunications activities"
-  },
-  {
-    "Section": "J",
-    "Division": "61",
-    "Group": "61.9",
-    "Class": "61.90",
-    "Activity": "Other telecommunications activities"
-  },
-  {
-    "Section": "J",
-    "Division": "62",
-    "Group": "61.9",
-    "Class": null,
-    "Activity": "Computer programming, consultancy and related activities"
-  },
-  {
-    "Section": "J",
-    "Division": "62",
-    "Group": "62.0",
-    "Class": null,
-    "Activity": "Computer programming, consultancy and related activities"
-  },
-  {
-    "Section": "J",
-    "Division": "62",
-    "Group": "62.0",
-    "Class": "62.01",
-    "Activity": "Computer programming activities"
-  },
-  {
-    "Section": "J",
-    "Division": "62",
-    "Group": "62.0",
-    "Class": "62.02",
-    "Activity": "Computer consultancy activities"
-  },
-  {
-    "Section": "J",
-    "Division": "62",
-    "Group": "62.0",
-    "Class": "62.03",
-    "Activity": "Computer facilities management activities"
-  },
-  {
-    "Section": "J",
-    "Division": "62",
-    "Group": "62.0",
-    "Class": "62.09",
-    "Activity": "Other information technology and computer service activities"
-  },
-  {
-    "Section": "J",
-    "Division": "63",
-    "Group": "62.0",
-    "Class": null,
-    "Activity": "Information service activities"
-  },
-  {
-    "Section": "J",
-    "Division": "63",
-    "Group": "63.1",
-    "Class": null,
-    "Activity": "Data processing, hosting and related activities; web portals"
-  },
-  {
-    "Section": "J",
-    "Division": "63",
-    "Group": "63.1",
-    "Class": "63.11",
-    "Activity": "Data processing, hosting and related activities"
-  },
-  {
-    "Section": "J",
-    "Division": "63",
-    "Group": "63.1",
-    "Class": "63.12",
-    "Activity": "Web portals"
-  },
-  {
-    "Section": "J",
-    "Division": "63",
-    "Group": "63.9",
-    "Class": null,
-    "Activity": "Other information service activities"
-  },
-  {
-    "Section": "J",
-    "Division": "63",
-    "Group": "63.9",
-    "Class": "63.91",
+    "Division": "60",
+    "Group": "60.3",
+    "Class": "60.31",
     "Activity": "News agency activities"
   },
   {
     "Section": "J",
-    "Division": "63",
-    "Group": "63.9",
-    "Class": "63.99",
-    "Activity": "Other information service activities n.e.c."
+    "Division": "60",
+    "Group": "60.3",
+    "Class": "60.39",
+    "Activity": "Other content distribution activities"
   },
   {
     "Section": "K",
     "Division": null,
-    "Group": "63.9",
+    "Group": null,
     "Class": null,
-    "Activity": "Financial And Insurance Activities"
+    "Activity": "Telecommunication, computer programming, consulting, computing infrastructure and other information service activities"
   },
   {
     "Section": "K",
-    "Division": "64",
+    "Division": "61",
+    "Group": null,
+    "Class": null,
+    "Activity": "Telecommunication"
+  },
+  {
+    "Section": "K",
+    "Division": "61",
+    "Group": "61.1",
+    "Class": null,
+    "Activity": "Wired, wireless, and satellite telecommunication activities"
+  },
+  {
+    "Section": "K",
+    "Division": "61",
+    "Group": "61.1",
+    "Class": "61.10",
+    "Activity": "Wired, wireless, and satellite telecommunication activities"
+  },
+  {
+    "Section": "K",
+    "Division": "61",
+    "Group": "61.2",
+    "Class": null,
+    "Activity": "Telecommunication reselling activities and intermediation service activities for telecommunication"
+  },
+  {
+    "Section": "K",
+    "Division": "61",
+    "Group": "61.2",
+    "Class": "61.20",
+    "Activity": "Telecommunication reselling activities and intermediation service activities for telecommunication"
+  },
+  {
+    "Section": "K",
+    "Division": "61",
+    "Group": "61.9",
+    "Class": null,
+    "Activity": "Other telecommunication activities"
+  },
+  {
+    "Section": "K",
+    "Division": "61",
+    "Group": "61.9",
+    "Class": "61.90",
+    "Activity": "Other telecommunication activities"
+  },
+  {
+    "Section": "K",
+    "Division": "62",
+    "Group": null,
+    "Class": null,
+    "Activity": "Computer programming, consultancy and related activities"
+  },
+  {
+    "Section": "K",
+    "Division": "62",
+    "Group": "62.1",
+    "Class": null,
+    "Activity": "Computer programming activities"
+  },
+  {
+    "Section": "K",
+    "Division": "62",
+    "Group": "62.1",
+    "Class": "62.10",
+    "Activity": "Computer programming activities"
+  },
+  {
+    "Section": "K",
+    "Division": "62",
+    "Group": "62.2",
+    "Class": null,
+    "Activity": "Computer consultancy and computer facilities management activities"
+  },
+  {
+    "Section": "K",
+    "Division": "62",
+    "Group": "62.2",
+    "Class": "62.20",
+    "Activity": "Computer consultancy and computer facilities management activities"
+  },
+  {
+    "Section": "K",
+    "Division": "62",
+    "Group": "62.9",
+    "Class": null,
+    "Activity": "Other information technology and computer service activities"
+  },
+  {
+    "Section": "K",
+    "Division": "62",
+    "Group": "62.9",
+    "Class": "62.90",
+    "Activity": "Other information technology and computer service activities"
+  },
+  {
+    "Section": "K",
+    "Division": "63",
+    "Group": null,
+    "Class": null,
+    "Activity": "Computing infrastructure, data processing, hosting and other information service activities"
+  },
+  {
+    "Section": "K",
+    "Division": "63",
+    "Group": "63.1",
+    "Class": null,
+    "Activity": "Computing infrastructure, data processing, hosting and related activities"
+  },
+  {
+    "Section": "K",
+    "Division": "63",
+    "Group": "63.1",
+    "Class": "63.10",
+    "Activity": "Computing infrastructure, data processing, hosting and related activities"
+  },
+  {
+    "Section": "K",
+    "Division": "63",
     "Group": "63.9",
+    "Class": null,
+    "Activity": "Web search portal activities and other information service activities"
+  },
+  {
+    "Section": "K",
+    "Division": "63",
+    "Group": "63.9",
+    "Class": "63.91",
+    "Activity": "Web search portal activities"
+  },
+  {
+    "Section": "K",
+    "Division": "63",
+    "Group": "63.9",
+    "Class": "63.92",
+    "Activity": "Other information service activities"
+  },
+  {
+    "Section": "L",
+    "Division": null,
+    "Group": null,
+    "Class": null,
+    "Activity": "Financial and insurance activities"
+  },
+  {
+    "Section": "L",
+    "Division": "64",
+    "Group": null,
     "Class": null,
     "Activity": "Financial service activities, except insurance and pension funding"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "64",
     "Group": "64.1",
     "Class": null,
     "Activity": "Monetary intermediation"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "64",
     "Group": "64.1",
     "Class": "64.11",
     "Activity": "Central banking"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "64",
     "Group": "64.1",
     "Class": "64.19",
     "Activity": "Other monetary intermediation"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "64",
     "Group": "64.2",
     "Class": null,
-    "Activity": "Activities of holding companies"
+    "Activity": "Activities of holding companies and financing conduits"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "64",
     "Group": "64.2",
-    "Class": "64.20",
+    "Class": "64.21",
     "Activity": "Activities of holding companies"
   },
   {
-    "Section": "K",
+    "Section": "L",
+    "Division": "64",
+    "Group": "64.2",
+    "Class": "64.22",
+    "Activity": "Activities of financing conduits"
+  },
+  {
+    "Section": "L",
     "Division": "64",
     "Group": "64.3",
     "Class": null,
-    "Activity": "Trusts, funds and similar financial entities"
+    "Activity": "Activities of trusts, funds and similar financial entities"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "64",
     "Group": "64.3",
-    "Class": "64.30",
-    "Activity": "Trusts, funds and similar financial entities"
+    "Class": "64.31",
+    "Activity": "Activities of money market and non-money market investments funds"
   },
   {
-    "Section": "K",
+    "Section": "L",
+    "Division": "64",
+    "Group": "64.3",
+    "Class": "64.32",
+    "Activity": "Activities of trust, estate and agency accounts"
+  },
+  {
+    "Section": "L",
     "Division": "64",
     "Group": "64.9",
     "Class": null,
     "Activity": "Other financial service activities, except insurance and pension funding"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "64",
     "Group": "64.9",
     "Class": "64.91",
     "Activity": "Financial leasing"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "64",
     "Group": "64.9",
     "Class": "64.92",
     "Activity": "Other credit granting"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "64",
     "Group": "64.9",
     "Class": "64.99",
     "Activity": "Other financial service activities, except insurance and pension funding n.e.c."
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "65",
-    "Group": "64.9",
+    "Group": null,
     "Class": null,
     "Activity": "Insurance, reinsurance and pension funding, except compulsory social security"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "65",
     "Group": "65.1",
     "Class": null,
     "Activity": "Insurance"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "65",
     "Group": "65.1",
     "Class": "65.11",
     "Activity": "Life insurance"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "65",
     "Group": "65.1",
     "Class": "65.12",
     "Activity": "Non-life insurance"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "65",
     "Group": "65.2",
     "Class": null,
     "Activity": "Reinsurance"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "65",
     "Group": "65.2",
     "Class": "65.20",
     "Activity": "Reinsurance"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "65",
     "Group": "65.3",
     "Class": null,
     "Activity": "Pension funding"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "65",
     "Group": "65.3",
     "Class": "65.30",
     "Activity": "Pension funding"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "66",
-    "Group": "65.3",
+    "Group": null,
     "Class": null,
     "Activity": "Activities auxiliary to financial services and insurance activities"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "66",
     "Group": "66.1",
     "Class": null,
     "Activity": "Activities auxiliary to financial services, except insurance and pension funding"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "66",
     "Group": "66.1",
     "Class": "66.11",
     "Activity": "Administration of financial markets"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "66",
     "Group": "66.1",
     "Class": "66.12",
     "Activity": "Security and commodity contracts brokerage"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "66",
     "Group": "66.1",
     "Class": "66.19",
     "Activity": "Other activities auxiliary to financial services, except insurance and pension funding"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "66",
     "Group": "66.2",
     "Class": null,
     "Activity": "Activities auxiliary to insurance and pension funding"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "66",
     "Group": "66.2",
     "Class": "66.21",
     "Activity": "Risk and damage evaluation"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "66",
     "Group": "66.2",
     "Class": "66.22",
     "Activity": "Activities of insurance agents and brokers"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "66",
     "Group": "66.2",
     "Class": "66.29",
-    "Activity": "Other activities auxiliary to insurance and pension funding"
+    "Activity": "Activities auxiliary to insurance and pension funding n.e.c."
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "66",
     "Group": "66.3",
     "Class": null,
     "Activity": "Fund management activities"
   },
   {
-    "Section": "K",
+    "Section": "L",
     "Division": "66",
     "Group": "66.3",
     "Class": "66.30",
     "Activity": "Fund management activities"
   },
   {
-    "Section": "L",
+    "Section": "M",
     "Division": null,
-    "Group": "66.3",
-    "Class": null,
-    "Activity": "Real Estate Activities"
-  },
-  {
-    "Section": "L",
-    "Division": "68",
-    "Group": "66.3",
+    "Group": null,
     "Class": null,
     "Activity": "Real estate activities"
   },
   {
-    "Section": "L",
+    "Section": "M",
+    "Division": "68",
+    "Group": null,
+    "Class": null,
+    "Activity": "Real estate activities"
+  },
+  {
+    "Section": "M",
     "Division": "68",
     "Group": "68.1",
     "Class": null,
-    "Activity": "Buying and selling of own real estate"
+    "Activity": "Real estate activities with own property and development of building projects"
   },
   {
-    "Section": "L",
+    "Section": "M",
     "Division": "68",
     "Group": "68.1",
-    "Class": "68.10",
+    "Class": "68.11",
     "Activity": "Buying and selling of own real estate"
   },
   {
-    "Section": "L",
+    "Section": "M",
+    "Division": "68",
+    "Group": "68.1",
+    "Class": "68.12",
+    "Activity": "Development of building projects"
+  },
+  {
+    "Section": "M",
     "Division": "68",
     "Group": "68.2",
     "Class": null,
-    "Activity": "Renting and operating of own or leased real estate"
+    "Activity": "Rental and operating of own or leased real estate"
   },
   {
-    "Section": "L",
+    "Section": "M",
     "Division": "68",
     "Group": "68.2",
     "Class": "68.20",
-    "Activity": "Renting and operating of own or leased real estate"
+    "Activity": "Rental and operating of own or leased real estate"
   },
   {
-    "Section": "L",
+    "Section": "M",
     "Division": "68",
     "Group": "68.3",
     "Class": null,
     "Activity": "Real estate activities on a fee or contract basis"
   },
   {
-    "Section": "L",
+    "Section": "M",
     "Division": "68",
     "Group": "68.3",
     "Class": "68.31",
-    "Activity": "Real estate agencies"
+    "Activity": "Intermediation service activities for real estate activities"
   },
   {
-    "Section": "L",
+    "Section": "M",
     "Division": "68",
     "Group": "68.3",
     "Class": "68.32",
-    "Activity": "Management of real estate on a fee or contract basis"
+    "Activity": "Other real estate activities on a fee or contract basis"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": null,
-    "Group": "68.3",
+    "Group": null,
     "Class": null,
-    "Activity": "Professional, Scientific And Technical Activities"
+    "Activity": "Professional, scientific and technical activities"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "69",
-    "Group": "68.3",
+    "Group": null,
     "Class": null,
     "Activity": "Legal and accounting activities"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "69",
     "Group": "69.1",
     "Class": null,
     "Activity": "Legal activities"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "69",
     "Group": "69.1",
     "Class": "69.10",
     "Activity": "Legal activities"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "69",
     "Group": "69.2",
     "Class": null,
     "Activity": "Accounting, bookkeeping and auditing activities; tax consultancy"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "69",
     "Group": "69.2",
     "Class": "69.20",
     "Activity": "Accounting, bookkeeping and auditing activities; tax consultancy"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "70",
-    "Group": "69.2",
+    "Group": null,
     "Class": null,
-    "Activity": "Activities of head offices; management consultancy activities"
+    "Activity": "Activities of head offices and management consultancy"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "70",
     "Group": "70.1",
     "Class": null,
     "Activity": "Activities of head offices"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "70",
     "Group": "70.1",
     "Class": "70.10",
     "Activity": "Activities of head offices"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "70",
     "Group": "70.2",
     "Class": null,
-    "Activity": "Management consultancy activities"
-  },
-  {
-    "Section": "M",
-    "Division": "70",
-    "Group": "70.2",
-    "Class": "70.21",
-    "Activity": "Public relations and communication activities"
-  },
-  {
-    "Section": "M",
-    "Division": "70",
-    "Group": "70.2",
-    "Class": "70.22",
     "Activity": "Business and other management consultancy activities"
   },
   {
-    "Section": "M",
-    "Division": "71",
+    "Section": "N",
+    "Division": "70",
     "Group": "70.2",
+    "Class": "70.20",
+    "Activity": "Business and other management consultancy activities"
+  },
+  {
+    "Section": "N",
+    "Division": "71",
+    "Group": null,
     "Class": null,
     "Activity": "Architectural and engineering activities; technical testing and analysis"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "71",
     "Group": "71.1",
     "Class": null,
     "Activity": "Architectural and engineering activities and related technical consultancy"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "71",
     "Group": "71.1",
     "Class": "71.11",
     "Activity": "Architectural activities"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "71",
     "Group": "71.1",
     "Class": "71.12",
     "Activity": "Engineering activities and related technical consultancy"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "71",
     "Group": "71.2",
     "Class": null,
     "Activity": "Technical testing and analysis"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "71",
     "Group": "71.2",
     "Class": "71.20",
     "Activity": "Technical testing and analysis"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "72",
-    "Group": "71.2",
+    "Group": null,
     "Class": null,
     "Activity": "Scientific research and development"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "72",
     "Group": "72.1",
     "Class": null,
     "Activity": "Research and experimental development on natural sciences and engineering"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "72",
     "Group": "72.1",
-    "Class": "72.11",
-    "Activity": "Research and experimental development on biotechnology"
+    "Class": "72.10",
+    "Activity": "Research and experimental development on natural sciences and engineering"
   },
   {
-    "Section": "M",
-    "Division": "72",
-    "Group": "72.1",
-    "Class": "72.19",
-    "Activity": "Other research and experimental development on natural sciences and engineering"
-  },
-  {
-    "Section": "M",
+    "Section": "N",
     "Division": "72",
     "Group": "72.2",
     "Class": null,
     "Activity": "Research and experimental development on social sciences and humanities"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "72",
     "Group": "72.2",
     "Class": "72.20",
     "Activity": "Research and experimental development on social sciences and humanities"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "73",
-    "Group": "72.2",
+    "Group": null,
     "Class": null,
-    "Activity": "Advertising and market research"
+    "Activity": "Activities of advertising, market research and public relations"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "73",
     "Group": "73.1",
     "Class": null,
     "Activity": "Advertising"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "73",
     "Group": "73.1",
     "Class": "73.11",
-    "Activity": "Advertising agencies"
+    "Activity": "Activities of advertising agencies"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "73",
     "Group": "73.1",
     "Class": "73.12",
     "Activity": "Media representation"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "73",
     "Group": "73.2",
     "Class": null,
     "Activity": "Market research and public opinion polling"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "73",
     "Group": "73.2",
     "Class": "73.20",
     "Activity": "Market research and public opinion polling"
   },
   {
-    "Section": "M",
+    "Section": "N",
+    "Division": "73",
+    "Group": "73.3",
+    "Class": null,
+    "Activity": "Public relations and communication activities"
+  },
+  {
+    "Section": "N",
+    "Division": "73",
+    "Group": "73.3",
+    "Class": "73.30",
+    "Activity": "Public relations and communication activities"
+  },
+  {
+    "Section": "N",
     "Division": "74",
-    "Group": "73.2",
+    "Group": null,
     "Class": null,
     "Activity": "Other professional, scientific and technical activities"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "74",
     "Group": "74.1",
     "Class": null,
     "Activity": "Specialised design activities"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "74",
     "Group": "74.1",
-    "Class": "74.10",
-    "Activity": "Specialised design activities"
+    "Class": "74.11",
+    "Activity": "Industrial product and fashion design activities"
   },
   {
-    "Section": "M",
+    "Section": "N",
+    "Division": "74",
+    "Group": "74.1",
+    "Class": "74.12",
+    "Activity": "Graphic design and visual communication activities"
+  },
+  {
+    "Section": "N",
+    "Division": "74",
+    "Group": "74.1",
+    "Class": "74.13",
+    "Activity": "Interior design activities"
+  },
+  {
+    "Section": "N",
+    "Division": "74",
+    "Group": "74.1",
+    "Class": "74.14",
+    "Activity": "Other specialised design activities"
+  },
+  {
+    "Section": "N",
     "Division": "74",
     "Group": "74.2",
     "Class": null,
     "Activity": "Photographic activities"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "74",
     "Group": "74.2",
     "Class": "74.20",
     "Activity": "Photographic activities"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "74",
     "Group": "74.3",
     "Class": null,
     "Activity": "Translation and interpretation activities"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "74",
     "Group": "74.3",
     "Class": "74.30",
     "Activity": "Translation and interpretation activities"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "74",
     "Group": "74.9",
     "Class": null,
     "Activity": "Other professional, scientific and technical activities n.e.c."
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "74",
     "Group": "74.9",
-    "Class": "74.90",
-    "Activity": "Other professional, scientific and technical activities n.e.c."
+    "Class": "74.91",
+    "Activity": "Patent brokering and marketing service activities"
   },
   {
-    "Section": "M",
-    "Division": "75",
+    "Section": "N",
+    "Division": "74",
     "Group": "74.9",
+    "Class": "74.99",
+    "Activity": "All other professional, scientific and technical activities n.e.c."
+  },
+  {
+    "Section": "N",
+    "Division": "75",
+    "Group": null,
     "Class": null,
     "Activity": "Veterinary activities"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "75",
     "Group": "75.0",
     "Class": null,
     "Activity": "Veterinary activities"
   },
   {
-    "Section": "M",
+    "Section": "N",
     "Division": "75",
     "Group": "75.0",
     "Class": "75.00",
     "Activity": "Veterinary activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": null,
-    "Group": "75.0",
+    "Group": null,
     "Class": null,
-    "Activity": "Administrative And Support Service Activities"
+    "Activity": "Administrative and support service activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "77",
-    "Group": "75.0",
+    "Group": null,
     "Class": null,
     "Activity": "Rental and leasing activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "77",
     "Group": "77.1",
     "Class": null,
-    "Activity": "Renting and leasing of motor vehicles"
+    "Activity": "Rental and leasing of motor vehicles"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "77",
     "Group": "77.1",
     "Class": "77.11",
-    "Activity": "Renting and leasing of cars and light motor vehicles"
+    "Activity": "Rental and leasing of cars and light motor vehicles"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "77",
     "Group": "77.1",
     "Class": "77.12",
-    "Activity": "Renting and leasing of trucks"
+    "Activity": "Rental and leasing of trucks"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "77",
     "Group": "77.2",
     "Class": null,
-    "Activity": "Renting and leasing of personal and household goods"
+    "Activity": "Rental and leasing of personal and household goods"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "77",
     "Group": "77.2",
     "Class": "77.21",
-    "Activity": "Renting and leasing of recreational and sports goods"
+    "Activity": "Rental and leasing of recreational and sports goods"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "77",
     "Group": "77.2",
     "Class": "77.22",
-    "Activity": "Renting of video tapes and disks"
+    "Activity": "Rental and leasing of other personal and household goods"
   },
   {
-    "Section": "N",
-    "Division": "77",
-    "Group": "77.2",
-    "Class": "77.29",
-    "Activity": "Renting and leasing of other personal and household goods"
-  },
-  {
-    "Section": "N",
+    "Section": "O",
     "Division": "77",
     "Group": "77.3",
     "Class": null,
-    "Activity": "Renting and leasing of other machinery, equipment and tangible goods"
+    "Activity": "Rental and leasing of other machinery, equipment and tangible goods"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "77",
     "Group": "77.3",
     "Class": "77.31",
-    "Activity": "Renting and leasing of agricultural machinery and equipment"
+    "Activity": "Rental and leasing of agricultural machinery and equipment"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "77",
     "Group": "77.3",
     "Class": "77.32",
-    "Activity": "Renting and leasing of construction and civil engineering machinery and equipment"
+    "Activity": "Rental and leasing of construction and civil engineering machinery and equipment"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "77",
     "Group": "77.3",
     "Class": "77.33",
-    "Activity": "Renting and leasing of office machinery and equipment (including computers)"
+    "Activity": "Rental and leasing of office machinery, equipment and computers"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "77",
     "Group": "77.3",
     "Class": "77.34",
-    "Activity": "Renting and leasing of water transport equipment"
+    "Activity": "Rental and leasing of water transport equipment"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "77",
     "Group": "77.3",
     "Class": "77.35",
-    "Activity": "Renting and leasing of air transport equipment"
+    "Activity": "Rental and leasing of air transport equipment"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "77",
     "Group": "77.3",
     "Class": "77.39",
-    "Activity": "Renting and leasing of other machinery, equipment and tangible goods n.e.c."
+    "Activity": "Rental and leasing of other machinery, equipment and tangible goods n.e.c."
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "77",
     "Group": "77.4",
     "Class": null,
-    "Activity": "Leasing of intellectual property and similar products, except copy-righted works"
+    "Activity": "Leasing of intellectual property and similar products, except copyrighted works"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "77",
     "Group": "77.4",
     "Class": "77.40",
-    "Activity": "Leasing of intellectual property and similar products, except copy-righted works"
+    "Activity": "Leasing of intellectual property and similar products, except copyrighted works"
   },
   {
-    "Section": "N",
+    "Section": "O",
+    "Division": "77",
+    "Group": "77.5",
+    "Class": null,
+    "Activity": "Intermediation service activities for rental and leasing of tangible goods and non-financial intangible assets"
+  },
+  {
+    "Section": "O",
+    "Division": "77",
+    "Group": "77.5",
+    "Class": "77.51",
+    "Activity": "Intermediation service activities for rental and leasing of cars, motorhomes and trailers"
+  },
+  {
+    "Section": "O",
+    "Division": "77",
+    "Group": "77.5",
+    "Class": "77.52",
+    "Activity": "Intermediation service activities for rental and leasing of other tangible goods and non-financial intangible assets"
+  },
+  {
+    "Section": "O",
     "Division": "78",
-    "Group": "77.4",
+    "Group": null,
     "Class": null,
     "Activity": "Employment activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "78",
     "Group": "78.1",
     "Class": null,
     "Activity": "Activities of employment placement agencies"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "78",
     "Group": "78.1",
     "Class": "78.10",
     "Activity": "Activities of employment placement agencies"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "78",
     "Group": "78.2",
     "Class": null,
-    "Activity": "Temporary employment agency activities"
+    "Activity": "Temporary employment agency activities and other human resource provisions"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "78",
     "Group": "78.2",
     "Class": "78.20",
-    "Activity": "Temporary employment agency activities"
+    "Activity": "Temporary employment agency activities and other human resource provisions"
   },
   {
-    "Section": "N",
-    "Division": "78",
-    "Group": "78.3",
-    "Class": null,
-    "Activity": "Other human resources provision"
-  },
-  {
-    "Section": "N",
-    "Division": "78",
-    "Group": "78.3",
-    "Class": "78.30",
-    "Activity": "Other human resources provision"
-  },
-  {
-    "Section": "N",
+    "Section": "O",
     "Division": "79",
-    "Group": "78.3",
+    "Group": null,
     "Class": null,
-    "Activity": "Travel agency, tour operator reservation service and related activities"
+    "Activity": "Travel agency, tour operator and other reservation service and related activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "79",
     "Group": "79.1",
     "Class": null,
     "Activity": "Travel agency and tour operator activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "79",
     "Group": "79.1",
     "Class": "79.11",
     "Activity": "Travel agency activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "79",
     "Group": "79.1",
     "Class": "79.12",
     "Activity": "Tour operator activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "79",
     "Group": "79.9",
     "Class": null,
     "Activity": "Other reservation service and related activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "79",
     "Group": "79.9",
     "Class": "79.90",
     "Activity": "Other reservation service and related activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "80",
-    "Group": "79.9",
+    "Group": null,
     "Class": null,
-    "Activity": "Security and investigation activities"
+    "Activity": "Investigation and security activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "80",
-    "Group": "80.1",
+    "Group": "80.0",
     "Class": null,
-    "Activity": "Private security activities"
+    "Activity": "Investigation and security activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "80",
-    "Group": "80.1",
-    "Class": "80.10",
-    "Activity": "Private security activities"
+    "Group": "80.0",
+    "Class": "80.01",
+    "Activity": "Investigation and private security activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "80",
-    "Group": "80.2",
-    "Class": null,
-    "Activity": "Security systems service activities"
+    "Group": "80.0",
+    "Class": "80.09",
+    "Activity": "Security activities n.e.c."
   },
   {
-    "Section": "N",
-    "Division": "80",
-    "Group": "80.2",
-    "Class": "80.20",
-    "Activity": "Security systems service activities"
-  },
-  {
-    "Section": "N",
-    "Division": "80",
-    "Group": "80.3",
-    "Class": null,
-    "Activity": "Investigation activities"
-  },
-  {
-    "Section": "N",
-    "Division": "80",
-    "Group": "80.3",
-    "Class": "80.30",
-    "Activity": "Investigation activities"
-  },
-  {
-    "Section": "N",
+    "Section": "O",
     "Division": "81",
-    "Group": "80.3",
+    "Group": null,
     "Class": null,
     "Activity": "Services to buildings and landscape activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "81",
     "Group": "81.1",
     "Class": null,
     "Activity": "Combined facilities support activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "81",
     "Group": "81.1",
     "Class": "81.10",
     "Activity": "Combined facilities support activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "81",
     "Group": "81.2",
     "Class": null,
     "Activity": "Cleaning activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "81",
     "Group": "81.2",
     "Class": "81.21",
     "Activity": "General cleaning of buildings"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "81",
     "Group": "81.2",
     "Class": "81.22",
     "Activity": "Other building and industrial cleaning activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "81",
     "Group": "81.2",
-    "Class": "81.29",
+    "Class": "81.23",
     "Activity": "Other cleaning activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "81",
     "Group": "81.3",
     "Class": null,
     "Activity": "Landscape service activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "81",
     "Group": "81.3",
     "Class": "81.30",
     "Activity": "Landscape service activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "82",
-    "Group": "81.3",
+    "Group": null,
     "Class": null,
     "Activity": "Office administrative, office support and other business support activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "82",
     "Group": "82.1",
     "Class": null,
     "Activity": "Office administrative and support activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "82",
     "Group": "82.1",
-    "Class": "82.11",
-    "Activity": "Combined office administrative service activities"
+    "Class": "82.10",
+    "Activity": "Office administrative and support activities"
   },
   {
-    "Section": "N",
-    "Division": "82",
-    "Group": "82.1",
-    "Class": "82.19",
-    "Activity": "Photocopying, document preparation and other specialised office support activities"
-  },
-  {
-    "Section": "N",
+    "Section": "O",
     "Division": "82",
     "Group": "82.2",
     "Class": null,
     "Activity": "Activities of call centres"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "82",
     "Group": "82.2",
     "Class": "82.20",
     "Activity": "Activities of call centres"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "82",
     "Group": "82.3",
     "Class": null,
     "Activity": "Organisation of conventions and trade shows"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "82",
     "Group": "82.3",
     "Class": "82.30",
     "Activity": "Organisation of conventions and trade shows"
   },
   {
-    "Section": "N",
+    "Section": "O",
+    "Division": "82",
+    "Group": "82.4",
+    "Class": null,
+    "Activity": "Intermediation service activities for business support service activities n.e.c."
+  },
+  {
+    "Section": "O",
+    "Division": "82",
+    "Group": "82.4",
+    "Class": "82.40",
+    "Activity": "Intermediation service activities for business support service activities n.e.c."
+  },
+  {
+    "Section": "O",
     "Division": "82",
     "Group": "82.9",
     "Class": null,
     "Activity": "Business support service activities n.e.c."
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "82",
     "Group": "82.9",
     "Class": "82.91",
     "Activity": "Activities of collection agencies and credit bureaus"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "82",
     "Group": "82.9",
     "Class": "82.92",
     "Activity": "Packaging activities"
   },
   {
-    "Section": "N",
+    "Section": "O",
     "Division": "82",
     "Group": "82.9",
     "Class": "82.99",
     "Activity": "Other business support service activities n.e.c."
   },
   {
-    "Section": "O",
+    "Section": "P",
     "Division": null,
-    "Group": "82.9",
-    "Class": null,
-    "Activity": "Public Administration And Defence; Compulsory Social Security"
-  },
-  {
-    "Section": "O",
-    "Division": "84",
-    "Group": "82.9",
+    "Group": null,
     "Class": null,
     "Activity": "Public administration and defence; compulsory social security"
   },
   {
-    "Section": "O",
+    "Section": "P",
+    "Division": "84",
+    "Group": null,
+    "Class": null,
+    "Activity": "Public administration and defence; compulsory social security"
+  },
+  {
+    "Section": "P",
     "Division": "84",
     "Group": "84.1",
     "Class": null,
-    "Activity": "Administration of the State and the economic and social policy of the community"
+    "Activity": "Administration of the State and the economic, social and environmental policies of the community"
   },
   {
-    "Section": "O",
+    "Section": "P",
     "Division": "84",
     "Group": "84.1",
     "Class": "84.11",
     "Activity": "General public administration activities"
   },
   {
-    "Section": "O",
+    "Section": "P",
     "Division": "84",
     "Group": "84.1",
     "Class": "84.12",
-    "Activity": "Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security"
+    "Activity": "Regulation of health care, education, cultural services and other social services"
   },
   {
-    "Section": "O",
+    "Section": "P",
     "Division": "84",
     "Group": "84.1",
     "Class": "84.13",
     "Activity": "Regulation of and contribution to more efficient operation of businesses"
   },
   {
-    "Section": "O",
+    "Section": "P",
     "Division": "84",
     "Group": "84.2",
     "Class": null,
     "Activity": "Provision of services to the community as a whole"
   },
   {
-    "Section": "O",
+    "Section": "P",
     "Division": "84",
     "Group": "84.2",
     "Class": "84.21",
     "Activity": "Foreign affairs"
   },
   {
-    "Section": "O",
+    "Section": "P",
     "Division": "84",
     "Group": "84.2",
     "Class": "84.22",
     "Activity": "Defence activities"
   },
   {
-    "Section": "O",
+    "Section": "P",
     "Division": "84",
     "Group": "84.2",
     "Class": "84.23",
     "Activity": "Justice and judicial activities"
   },
   {
-    "Section": "O",
+    "Section": "P",
     "Division": "84",
     "Group": "84.2",
     "Class": "84.24",
     "Activity": "Public order and safety activities"
   },
   {
-    "Section": "O",
+    "Section": "P",
     "Division": "84",
     "Group": "84.2",
     "Class": "84.25",
     "Activity": "Fire service activities"
   },
   {
-    "Section": "O",
+    "Section": "P",
     "Division": "84",
     "Group": "84.3",
     "Class": null,
     "Activity": "Compulsory social security activities"
   },
   {
-    "Section": "O",
+    "Section": "P",
     "Division": "84",
     "Group": "84.3",
     "Class": "84.30",
     "Activity": "Compulsory social security activities"
   },
   {
-    "Section": "P",
+    "Section": "Q",
     "Division": null,
-    "Group": "84.3",
+    "Group": null,
     "Class": null,
     "Activity": "Education"
   },
   {
-    "Section": "P",
+    "Section": "Q",
     "Division": "85",
-    "Group": "84.3",
+    "Group": null,
     "Class": null,
     "Activity": "Education"
   },
   {
-    "Section": "P",
+    "Section": "Q",
     "Division": "85",
     "Group": "85.1",
     "Class": null,
     "Activity": "Pre-primary education"
   },
   {
-    "Section": "P",
+    "Section": "Q",
     "Division": "85",
     "Group": "85.1",
     "Class": "85.10",
     "Activity": "Pre-primary education"
   },
   {
-    "Section": "P",
+    "Section": "Q",
     "Division": "85",
     "Group": "85.2",
     "Class": null,
     "Activity": "Primary education"
   },
   {
-    "Section": "P",
+    "Section": "Q",
     "Division": "85",
     "Group": "85.2",
     "Class": "85.20",
     "Activity": "Primary education"
   },
   {
-    "Section": "P",
+    "Section": "Q",
     "Division": "85",
     "Group": "85.3",
     "Class": null,
-    "Activity": "Secondary education"
+    "Activity": "Secondary and post-secondary non-tertiary education"
   },
   {
-    "Section": "P",
+    "Section": "Q",
     "Division": "85",
     "Group": "85.3",
     "Class": "85.31",
     "Activity": "General secondary education"
   },
   {
-    "Section": "P",
+    "Section": "Q",
     "Division": "85",
     "Group": "85.3",
     "Class": "85.32",
-    "Activity": "Technical and vocational secondary education"
+    "Activity": "Vocational secondary education"
   },
   {
-    "Section": "P",
+    "Section": "Q",
     "Division": "85",
-    "Group": "85.4",
-    "Class": null,
-    "Activity": "Higher education"
-  },
-  {
-    "Section": "P",
-    "Division": "85",
-    "Group": "85.4",
-    "Class": "85.41",
+    "Group": "85.3",
+    "Class": "85.33",
     "Activity": "Post-secondary non-tertiary education"
   },
   {
-    "Section": "P",
+    "Section": "Q",
     "Division": "85",
     "Group": "85.4",
-    "Class": "85.42",
+    "Class": null,
     "Activity": "Tertiary education"
   },
   {
-    "Section": "P",
+    "Section": "Q",
+    "Division": "85",
+    "Group": "85.4",
+    "Class": "85.40",
+    "Activity": "Tertiary education"
+  },
+  {
+    "Section": "Q",
     "Division": "85",
     "Group": "85.5",
     "Class": null,
     "Activity": "Other education"
   },
   {
-    "Section": "P",
+    "Section": "Q",
     "Division": "85",
     "Group": "85.5",
     "Class": "85.51",
     "Activity": "Sports and recreation education"
   },
   {
-    "Section": "P",
+    "Section": "Q",
     "Division": "85",
     "Group": "85.5",
     "Class": "85.52",
     "Activity": "Cultural education"
   },
   {
-    "Section": "P",
+    "Section": "Q",
     "Division": "85",
     "Group": "85.5",
     "Class": "85.53",
     "Activity": "Driving school activities"
   },
   {
-    "Section": "P",
+    "Section": "Q",
     "Division": "85",
     "Group": "85.5",
     "Class": "85.59",
     "Activity": "Other education n.e.c."
   },
   {
-    "Section": "P",
+    "Section": "Q",
     "Division": "85",
     "Group": "85.6",
     "Class": null,
     "Activity": "Educational support activities"
   },
   {
-    "Section": "P",
+    "Section": "Q",
     "Division": "85",
     "Group": "85.6",
-    "Class": "85.60",
-    "Activity": "Educational support activities"
+    "Class": "85.61",
+    "Activity": "Intermediation service activities for courses and tutors"
   },
   {
     "Section": "Q",
+    "Division": "85",
+    "Group": "85.6",
+    "Class": "85.69",
+    "Activity": "Educational support activities n.e.c."
+  },
+  {
+    "Section": "R",
     "Division": null,
-    "Group": "85.6",
+    "Group": null,
     "Class": null,
-    "Activity": "Human Health And Social Work Activities"
+    "Activity": "Human health and social work activities"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "86",
-    "Group": "85.6",
+    "Group": null,
     "Class": null,
     "Activity": "Human health activities"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "86",
     "Group": "86.1",
     "Class": null,
     "Activity": "Hospital activities"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "86",
     "Group": "86.1",
     "Class": "86.10",
     "Activity": "Hospital activities"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "86",
     "Group": "86.2",
     "Class": null,
     "Activity": "Medical and dental practice activities"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "86",
     "Group": "86.2",
     "Class": "86.21",
     "Activity": "General medical practice activities"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "86",
     "Group": "86.2",
     "Class": "86.22",
-    "Activity": "Specialist medical practice activities"
+    "Activity": "Medical specialists activities"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "86",
     "Group": "86.2",
     "Class": "86.23",
-    "Activity": "Dental practice activities"
+    "Activity": "Dental practice care activities"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "86",
     "Group": "86.9",
     "Class": null,
     "Activity": "Other human health activities"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "86",
     "Group": "86.9",
-    "Class": "86.90",
-    "Activity": "Other human health activities"
+    "Class": "86.91",
+    "Activity": "Diagnostic imaging services and medical laboratory activities"
   },
   {
-    "Section": "Q",
-    "Division": "87",
+    "Section": "R",
+    "Division": "86",
     "Group": "86.9",
+    "Class": "86.92",
+    "Activity": "Patient transportation by ambulance"
+  },
+  {
+    "Section": "R",
+    "Division": "86",
+    "Group": "86.9",
+    "Class": "86.93",
+    "Activity": "Activities of psychologists and psychotherapists, except medical doctors"
+  },
+  {
+    "Section": "R",
+    "Division": "86",
+    "Group": "86.9",
+    "Class": "86.94",
+    "Activity": "Nursing and midwifery activities"
+  },
+  {
+    "Section": "R",
+    "Division": "86",
+    "Group": "86.9",
+    "Class": "86.95",
+    "Activity": "Physiotherapy activities"
+  },
+  {
+    "Section": "R",
+    "Division": "86",
+    "Group": "86.9",
+    "Class": "86.96",
+    "Activity": "Traditional, complementary and alternative medicine activities"
+  },
+  {
+    "Section": "R",
+    "Division": "86",
+    "Group": "86.9",
+    "Class": "86.97",
+    "Activity": "Intermediation service activities for medical, dental and other human health services"
+  },
+  {
+    "Section": "R",
+    "Division": "86",
+    "Group": "86.9",
+    "Class": "86.99",
+    "Activity": "Other human health activities n.e.c."
+  },
+  {
+    "Section": "R",
+    "Division": "87",
+    "Group": null,
     "Class": null,
     "Activity": "Residential care activities"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "87",
     "Group": "87.1",
     "Class": null,
     "Activity": "Residential nursing care activities"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "87",
     "Group": "87.1",
     "Class": "87.10",
     "Activity": "Residential nursing care activities"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "87",
     "Group": "87.2",
     "Class": null,
-    "Activity": "Residential care activities for mental retardation, mental health and substance abuse"
+    "Activity": "Residential care activities for persons living with or having a diagnosis of a mental illness or substance abuse"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "87",
     "Group": "87.2",
     "Class": "87.20",
-    "Activity": "Residential care activities for mental retardation, mental health and substance abuse"
+    "Activity": "Residential care activities for persons living with or having a diagnosis of a mental illness or substance abuse"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "87",
     "Group": "87.3",
     "Class": null,
-    "Activity": "Residential care activities for the elderly and disabled"
+    "Activity": "Residential care activities for older persons or persons with physical disabilities"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "87",
     "Group": "87.3",
     "Class": "87.30",
-    "Activity": "Residential care activities for the elderly and disabled"
+    "Activity": "Residential care activities for older persons or persons with physical disabilities"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "87",
     "Group": "87.9",
     "Class": null,
     "Activity": "Other residential care activities"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "87",
     "Group": "87.9",
-    "Class": "87.90",
-    "Activity": "Other residential care activities"
+    "Class": "87.91",
+    "Activity": "Intermediation service activities for residential care activities"
   },
   {
-    "Section": "Q",
-    "Division": "88",
+    "Section": "R",
+    "Division": "87",
     "Group": "87.9",
+    "Class": "87.99",
+    "Activity": "Other residential care activities n.e.c."
+  },
+  {
+    "Section": "R",
+    "Division": "88",
+    "Group": null,
     "Class": null,
     "Activity": "Social work activities without accommodation"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "88",
     "Group": "88.1",
     "Class": null,
-    "Activity": "Social work activities without accommodation for the elderly and disabled"
+    "Activity": "Social work activities without accommodation for older persons or persons with disabilities"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "88",
     "Group": "88.1",
     "Class": "88.10",
-    "Activity": "Social work activities without accommodation for the elderly and disabled"
+    "Activity": "Social work activities without accommodation for older persons or persons with disabilities"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "88",
     "Group": "88.9",
     "Class": null,
     "Activity": "Other social work activities without accommodation"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "88",
     "Group": "88.9",
     "Class": "88.91",
     "Activity": "Child day-care activities"
   },
   {
-    "Section": "Q",
+    "Section": "R",
     "Division": "88",
     "Group": "88.9",
     "Class": "88.99",
     "Activity": "Other social work activities without accommodation n.e.c."
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": null,
-    "Group": "88.9",
+    "Group": null,
     "Class": null,
-    "Activity": "Arts, Entertainment And Recreation"
+    "Activity": "Arts, sports and recreation"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "90",
-    "Group": "88.9",
+    "Group": null,
     "Class": null,
-    "Activity": "Creative, arts and entertainment activities"
+    "Activity": "Arts creation and performing arts activities"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "90",
-    "Group": "90.0",
+    "Group": "90.1",
     "Class": null,
-    "Activity": "Creative, arts and entertainment activities"
+    "Activity": "Arts creation activities"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "90",
-    "Group": "90.0",
-    "Class": "90.01",
-    "Activity": "Performing arts"
+    "Group": "90.1",
+    "Class": "90.11",
+    "Activity": "Literary creation and musical composition activities"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "90",
-    "Group": "90.0",
-    "Class": "90.02",
-    "Activity": "Support activities to performing arts"
+    "Group": "90.1",
+    "Class": "90.12",
+    "Activity": "Visual arts creation activities"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "90",
-    "Group": "90.0",
-    "Class": "90.03",
-    "Activity": "Artistic creation"
+    "Group": "90.1",
+    "Class": "90.13",
+    "Activity": "Other arts creation activities"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "90",
-    "Group": "90.0",
-    "Class": "90.04",
-    "Activity": "Operation of arts facilities"
+    "Group": "90.2",
+    "Class": null,
+    "Activity": "Activities of performing arts"
   },
   {
-    "Section": "R",
+    "Section": "S",
+    "Division": "90",
+    "Group": "90.2",
+    "Class": "90.20",
+    "Activity": "Activities of performing arts"
+  },
+  {
+    "Section": "S",
+    "Division": "90",
+    "Group": "90.3",
+    "Class": null,
+    "Activity": "Support activities to arts creation and performing arts"
+  },
+  {
+    "Section": "S",
+    "Division": "90",
+    "Group": "90.3",
+    "Class": "90.31",
+    "Activity": "Operation of arts facilities and sites"
+  },
+  {
+    "Section": "S",
+    "Division": "90",
+    "Group": "90.3",
+    "Class": "90.39",
+    "Activity": "Other support activities to arts and performing arts"
+  },
+  {
+    "Section": "S",
     "Division": "91",
-    "Group": "90.0",
+    "Group": null,
     "Class": null,
     "Activity": "Libraries, archives, museums and other cultural activities"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "91",
-    "Group": "91.0",
+    "Group": "91.1",
     "Class": null,
-    "Activity": "Libraries, archives, museums and other cultural activities"
+    "Activity": "Library and archive activities"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "91",
-    "Group": "91.0",
-    "Class": "91.01",
-    "Activity": "Library and archives activities"
+    "Group": "91.1",
+    "Class": "91.11",
+    "Activity": "Library activities"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "91",
-    "Group": "91.0",
-    "Class": "91.02",
-    "Activity": "Museums activities"
+    "Group": "91.1",
+    "Class": "91.12",
+    "Activity": "Archive activities"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "91",
-    "Group": "91.0",
-    "Class": "91.03",
-    "Activity": "Operation of historical sites and buildings and similar visitor attractions"
+    "Group": "91.2",
+    "Class": null,
+    "Activity": "Museum, collection, historical site and monument activities"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "91",
-    "Group": "91.0",
-    "Class": "91.04",
-    "Activity": "Botanical and zoological gardens and nature reserves activities"
+    "Group": "91.2",
+    "Class": "91.21",
+    "Activity": "Museum and collection activities"
   },
   {
-    "Section": "R",
+    "Section": "S",
+    "Division": "91",
+    "Group": "91.2",
+    "Class": "91.22",
+    "Activity": "Historical site and monument activities"
+  },
+  {
+    "Section": "S",
+    "Division": "91",
+    "Group": "91.3",
+    "Class": null,
+    "Activity": "Conservation, restoration and other support activities for cultural heritage"
+  },
+  {
+    "Section": "S",
+    "Division": "91",
+    "Group": "91.3",
+    "Class": "91.30",
+    "Activity": "Conservation, restoration and other support activities for cultural heritage"
+  },
+  {
+    "Section": "S",
+    "Division": "91",
+    "Group": "91.4",
+    "Class": null,
+    "Activity": "Botanical and zoological garden and nature reserve activities"
+  },
+  {
+    "Section": "S",
+    "Division": "91",
+    "Group": "91.4",
+    "Class": "91.41",
+    "Activity": "Botanical and zoological garden activities"
+  },
+  {
+    "Section": "S",
+    "Division": "91",
+    "Group": "91.4",
+    "Class": "91.42",
+    "Activity": "Nature reserve activities"
+  },
+  {
+    "Section": "S",
     "Division": "92",
-    "Group": "91.0",
+    "Group": null,
     "Class": null,
     "Activity": "Gambling and betting activities"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "92",
     "Group": "92.0",
     "Class": null,
     "Activity": "Gambling and betting activities"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "92",
     "Group": "92.0",
     "Class": "92.00",
     "Activity": "Gambling and betting activities"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "93",
-    "Group": "92.0",
+    "Group": null,
     "Class": null,
     "Activity": "Sports activities and amusement and recreation activities"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "93",
     "Group": "93.1",
     "Class": null,
     "Activity": "Sports activities"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "93",
     "Group": "93.1",
     "Class": "93.11",
     "Activity": "Operation of sports facilities"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "93",
     "Group": "93.1",
     "Class": "93.12",
-    "Activity": "Activities of sport clubs"
+    "Activity": "Activities of sports clubs"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "93",
     "Group": "93.1",
     "Class": "93.13",
-    "Activity": "Fitness facilities"
+    "Activity": "Activities of fitness centres"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "93",
     "Group": "93.1",
     "Class": "93.19",
-    "Activity": "Other sports activities"
+    "Activity": "Sports activities n.e.c."
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "93",
     "Group": "93.2",
     "Class": null,
     "Activity": "Amusement and recreation activities"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "93",
     "Group": "93.2",
     "Class": "93.21",
     "Activity": "Activities of amusement parks and theme parks"
   },
   {
-    "Section": "R",
+    "Section": "S",
     "Division": "93",
     "Group": "93.2",
     "Class": "93.29",
-    "Activity": "Other amusement and recreation activities"
+    "Activity": "Amusement and recreation activities n.e.c."
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": null,
-    "Group": "93.2",
+    "Group": null,
     "Class": null,
-    "Activity": "Other Service Activities"
+    "Activity": "Other service activities"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "94",
-    "Group": "93.2",
+    "Group": null,
     "Class": null,
     "Activity": "Activities of membership organisations"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "94",
     "Group": "94.1",
     "Class": null,
     "Activity": "Activities of business, employers and professional membership organisations"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "94",
     "Group": "94.1",
     "Class": "94.11",
     "Activity": "Activities of business and employers membership organisations"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "94",
     "Group": "94.1",
     "Class": "94.12",
     "Activity": "Activities of professional membership organisations"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "94",
     "Group": "94.2",
     "Class": null,
     "Activity": "Activities of trade unions"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "94",
     "Group": "94.2",
     "Class": "94.20",
     "Activity": "Activities of trade unions"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "94",
     "Group": "94.9",
     "Class": null,
     "Activity": "Activities of other membership organisations"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "94",
     "Group": "94.9",
     "Class": "94.91",
     "Activity": "Activities of religious organisations"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "94",
     "Group": "94.9",
     "Class": "94.92",
     "Activity": "Activities of political organisations"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "94",
     "Group": "94.9",
     "Class": "94.99",
     "Activity": "Activities of other membership organisations n.e.c."
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "95",
-    "Group": "94.9",
+    "Group": null,
     "Class": null,
-    "Activity": "Repair of computers and personal and household goods"
+    "Activity": "Repair and maintenance of computers, personal and household goods, and motor vehicles and motorcycles"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "95",
     "Group": "95.1",
     "Class": null,
-    "Activity": "Repair of computers and communication equipment"
+    "Activity": "Repair and maintenance of computers and communication equipment"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "95",
     "Group": "95.1",
-    "Class": "95.11",
-    "Activity": "Repair of computers and peripheral equipment"
+    "Class": "95.10",
+    "Activity": "Repair and maintenance of computers and communication equipment"
   },
   {
-    "Section": "S",
-    "Division": "95",
-    "Group": "95.1",
-    "Class": "95.12",
-    "Activity": "Repair of communication equipment"
-  },
-  {
-    "Section": "S",
+    "Section": "T",
     "Division": "95",
     "Group": "95.2",
     "Class": null,
-    "Activity": "Repair of personal and household goods"
+    "Activity": "Repair and maintenance of personal and household goods"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "95",
     "Group": "95.2",
     "Class": "95.21",
-    "Activity": "Repair of consumer electronics"
+    "Activity": "Repair and maintenance of consumer electronics"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "95",
     "Group": "95.2",
     "Class": "95.22",
-    "Activity": "Repair of household appliances and home and garden equipment"
+    "Activity": "Repair and maintenance of household appliances and home and garden equipment"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "95",
     "Group": "95.2",
     "Class": "95.23",
-    "Activity": "Repair of footwear and leather goods"
+    "Activity": "Repair and maintenance of footwear and leather goods"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "95",
     "Group": "95.2",
     "Class": "95.24",
-    "Activity": "Repair of furniture and home furnishings"
+    "Activity": "Repair and maintenance of furniture and home furnishings"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "95",
     "Group": "95.2",
     "Class": "95.25",
-    "Activity": "Repair of watches, clocks and jewellery"
+    "Activity": "Repair and maintenance of watches, clocks and jewellery"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "95",
     "Group": "95.2",
     "Class": "95.29",
-    "Activity": "Repair of other personal and household goods"
+    "Activity": "Repair and maintenance of personal and household goods n.e.c."
   },
   {
-    "Section": "S",
-    "Division": "96",
-    "Group": "95.2",
+    "Section": "T",
+    "Division": "95",
+    "Group": "95.3",
     "Class": null,
-    "Activity": "Other personal service activities"
+    "Activity": "Repair and maintenance of motor vehicles and motorcycles"
   },
   {
-    "Section": "S",
-    "Division": "96",
-    "Group": "96.0",
+    "Section": "T",
+    "Division": "95",
+    "Group": "95.3",
+    "Class": "95.31",
+    "Activity": "Repair and maintenance of motor vehicles"
+  },
+  {
+    "Section": "T",
+    "Division": "95",
+    "Group": "95.3",
+    "Class": "95.32",
+    "Activity": "Repair and maintenance of motorcycles"
+  },
+  {
+    "Section": "T",
+    "Division": "95",
+    "Group": "95.4",
     "Class": null,
-    "Activity": "Other personal service activities"
+    "Activity": "Intermediation service activities for repair and maintenance of computers, personal and household goods, and motor vehicles and motorcycles"
   },
   {
-    "Section": "S",
-    "Division": "96",
-    "Group": "96.0",
-    "Class": "96.01",
-    "Activity": "Washing and (dry-)cleaning of textile and fur products"
+    "Section": "T",
+    "Division": "95",
+    "Group": "95.4",
+    "Class": "95.40",
+    "Activity": "Intermediation service activities for repair and maintenance of computers, personal and household goods, and motor vehicles and motorcycles"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "96",
-    "Group": "96.0",
-    "Class": "96.02",
-    "Activity": "Hairdressing and other beauty treatment"
+    "Group": null,
+    "Class": null,
+    "Activity": "Personal service activities"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "96",
-    "Group": "96.0",
-    "Class": "96.03",
+    "Group": "96.1",
+    "Class": null,
+    "Activity": "Washing and cleaning of textile and fur products"
+  },
+  {
+    "Section": "T",
+    "Division": "96",
+    "Group": "96.1",
+    "Class": "96.10",
+    "Activity": "Washing and cleaning of textile and fur products"
+  },
+  {
+    "Section": "T",
+    "Division": "96",
+    "Group": "96.2",
+    "Class": null,
+    "Activity": "Hairdressing, beauty treatment, day spa and similar activities"
+  },
+  {
+    "Section": "T",
+    "Division": "96",
+    "Group": "96.2",
+    "Class": "96.21",
+    "Activity": "Hairdressing and barber activities"
+  },
+  {
+    "Section": "T",
+    "Division": "96",
+    "Group": "96.2",
+    "Class": "96.22",
+    "Activity": "Beauty care and other beauty treatment activities"
+  },
+  {
+    "Section": "T",
+    "Division": "96",
+    "Group": "96.2",
+    "Class": "96.23",
+    "Activity": "Day spa, sauna and steam bath activities"
+  },
+  {
+    "Section": "T",
+    "Division": "96",
+    "Group": "96.3",
+    "Class": null,
     "Activity": "Funeral and related activities"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "96",
-    "Group": "96.0",
-    "Class": "96.04",
-    "Activity": "Physical well-being activities"
+    "Group": "96.3",
+    "Class": "96.30",
+    "Activity": "Funeral and related activities"
   },
   {
-    "Section": "S",
+    "Section": "T",
     "Division": "96",
-    "Group": "96.0",
-    "Class": "96.09",
+    "Group": "96.4",
+    "Class": null,
+    "Activity": "Intermediation service activities for personal services"
+  },
+  {
+    "Section": "T",
+    "Division": "96",
+    "Group": "96.4",
+    "Class": "96.40",
+    "Activity": "Intermediation service activities for personal services"
+  },
+  {
+    "Section": "T",
+    "Division": "96",
+    "Group": "96.9",
+    "Class": null,
+    "Activity": "Other personal service activities"
+  },
+  {
+    "Section": "T",
+    "Division": "96",
+    "Group": "96.9",
+    "Class": "96.91",
+    "Activity": "Provision of domestic personal service activities"
+  },
+  {
+    "Section": "T",
+    "Division": "96",
+    "Group": "96.9",
+    "Class": "96.99",
     "Activity": "Other personal service activities n.e.c."
   },
   {
-    "Section": "T",
+    "Section": "U",
     "Division": null,
-    "Group": "96.0",
+    "Group": null,
     "Class": null,
-    "Activity": "Activities Of Households As Employers; Undifferentiated Goods- And Services-producing  \r\nActivities Of Households For Own Use"
+    "Activity": "Activities of households as employers and undifferentiated goods – and service-producing activities of households for own use"
   },
   {
-    "Section": "T",
+    "Section": "U",
     "Division": "97",
-    "Group": "96.0",
+    "Group": null,
     "Class": null,
     "Activity": "Activities of households as employers of domestic personnel"
   },
   {
-    "Section": "T",
+    "Section": "U",
     "Division": "97",
     "Group": "97.0",
     "Class": null,
     "Activity": "Activities of households as employers of domestic personnel"
   },
   {
-    "Section": "T",
+    "Section": "U",
     "Division": "97",
     "Group": "97.0",
     "Class": "97.00",
     "Activity": "Activities of households as employers of domestic personnel"
   },
   {
-    "Section": "T",
+    "Section": "U",
     "Division": "98",
-    "Group": "97.0",
+    "Group": null,
     "Class": null,
-    "Activity": "Undifferentiated goods- and services-producing activities of private households for own use"
+    "Activity": "Undifferentiated goods- and service-producing activities of private households for own use"
   },
   {
-    "Section": "T",
+    "Section": "U",
     "Division": "98",
     "Group": "98.1",
     "Class": null,
     "Activity": "Undifferentiated goods-producing activities of private households for own use"
   },
   {
-    "Section": "T",
+    "Section": "U",
     "Division": "98",
     "Group": "98.1",
     "Class": "98.10",
     "Activity": "Undifferentiated goods-producing activities of private households for own use"
   },
   {
-    "Section": "T",
+    "Section": "U",
     "Division": "98",
     "Group": "98.2",
     "Class": null,
     "Activity": "Undifferentiated service-producing activities of private households for own use"
   },
   {
-    "Section": "T",
+    "Section": "U",
     "Division": "98",
     "Group": "98.2",
     "Class": "98.20",
     "Activity": "Undifferentiated service-producing activities of private households for own use"
   },
   {
-    "Section": "U",
+    "Section": "V",
     "Division": null,
-    "Group": "98.2",
-    "Class": null,
-    "Activity": "Activities Of Extraterritorial Organisations And Bodies"
-  },
-  {
-    "Section": "U",
-    "Division": "99",
-    "Group": "98.2",
+    "Group": null,
     "Class": null,
     "Activity": "Activities of extraterritorial organisations and bodies"
   },
   {
-    "Section": "U",
+    "Section": "V",
+    "Division": "99",
+    "Group": null,
+    "Class": null,
+    "Activity": "Activities of extraterritorial organisations and bodies"
+  },
+  {
+    "Section": "V",
     "Division": "99",
     "Group": "99.0",
     "Class": null,
     "Activity": "Activities of extraterritorial organisations and bodies"
   },
   {
-    "Section": "U",
+    "Section": "V",
     "Division": "99",
     "Group": "99.0",
     "Class": "99.00",
