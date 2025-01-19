@@ -36,6 +36,8 @@ const handler: Handler = async (
       body: JSON.stringify(answer),
     };
   } catch (error) {
+    console.error("Error in getCode function:", error);
+
     const statusCode =
       error instanceof Error && "statusCode" in error
         ? (error as any).statusCode
