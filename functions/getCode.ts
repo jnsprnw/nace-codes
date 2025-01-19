@@ -6,21 +6,18 @@ import {
   CodeDetails,
 } from "../src/code";
 
-// Define the handler function
 const handler: Handler = async (
   event: HandlerEvent,
   context: HandlerContext,
 ) => {
-  // Only handle GET requests
   if (event.httpMethod !== "GET") {
     return {
-      statusCode: 405, // Method Not Allowed
+      statusCode: 405,
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ error: "Method Not Allowed" }),
     };
   }
 
-  // Parse query parameters
   const { queryStringParameters } = event;
   const code: string | undefined = queryStringParameters?.code as
     | string
@@ -31,7 +28,6 @@ const handler: Handler = async (
       throw new BadRequestError("No code provided.");
     }
 
-    // Invoke the getCode function
     const answer: CodeDetails = getCode(code);
 
     return {
@@ -40,7 +36,6 @@ const handler: Handler = async (
       body: JSON.stringify(answer),
     };
   } catch (error) {
-    // Determine the status code and error message
     const statusCode =
       error instanceof Error && "statusCode" in error
         ? (error as any).statusCode
