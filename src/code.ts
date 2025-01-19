@@ -1,6 +1,6 @@
 import { readFileSync } from "fs";
 
-interface NaceCode {
+export interface NaceCode {
   Section: string;
   Division: string;
   Group?: string;
@@ -8,7 +8,7 @@ interface NaceCode {
   Activity: string;
 }
 
-interface CodeDetails {
+export interface CodeDetails {
   section: string;
   division: {
     description: string;
