@@ -24,7 +24,5 @@ app.get("/", function (req: Request, res: Response) {
 });
 
 app.listen(3000, () => {
-  console.log(
-    "Server is running on port 3000 (http://localhost:3000/?code=01.20)",
-  );
+  console.log("Server is running at http://localhost:3000/?code=16.23");
 });
