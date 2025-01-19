@@ -1,7 +1,7 @@
 [build]
-  functions = "functions" # Directory where your functions are located
+  functions = "functions"
 
 [[redirects]]
-  from = "/api/*"
-  to = "/.netlify/functions/:splat"
+  from = "/"
+  to = "/.netlify/functions/getCode"
   status = 200
