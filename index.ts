@@ -5,9 +5,10 @@ const app = express();
 
 app.get("/", function (req: Request, res: Response) {
   const code: string | undefined = req.query.code as string;
+  const version: string | undefined = (req.query.version as string) || "2.1";
 
   try {
-    const answer = getCode(code);
+    const answer = getCode(code, version);
     res.setHeader("Content-Type", "application/json");
     res.status(200).json(answer);
   } catch (error) {

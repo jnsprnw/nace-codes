@@ -50,7 +50,51 @@ describe("getCode Function Tests", () => {
     });
     expect(result.class).toEqual({
       description:
+        "Growing of cereals, other than rice, leguminous crops and oil seeds",
+      id: "01.11",
+    });
+  });
+
+  // Test for a valid class in version 2.1
+  it("should return correct details for a valid class code '01.11' in version 2.0", () => {
+    const code = "01.11";
+    const version = "2.0";
+    const result = getCode(code, version);
+    expect(result.section).toBe("A");
+    expect(result.division).toEqual({
+      description:
+        "Crop and animal production, hunting and related service activities",
+      id: "01",
+    });
+    expect(result.group).toEqual({
+      description: "Growing of non-perennial crops",
+      id: "01.1",
+    });
+    expect(result.class).toEqual({
+      description:
         "Growing of cereals (except rice), leguminous crops and oil seeds",
+      id: "01.11",
+    });
+  });
+
+  // Test for a valid class in version 2.1
+  it("should return correct details for a valid class code '01.11' in version 2.1", () => {
+    const code = "01.11";
+    const version = "2.1";
+    const result = getCode(code, version);
+    expect(result.section).toBe("A");
+    expect(result.division).toEqual({
+      description:
+        "Crop and animal production, hunting and related service activities",
+      id: "01",
+    });
+    expect(result.group).toEqual({
+      description: "Growing of non-perennial crops",
+      id: "01.1",
+    });
+    expect(result.class).toEqual({
+      description:
+        "Growing of cereals, other than rice, leguminous crops and oil seeds",
       id: "01.11",
     });
   });

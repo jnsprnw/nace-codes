@@ -1,4 +1,5 @@
-import codesData from "../data/codes-2.0.json";
+import codesData2_0 from "../data/codes-2.0.json";
+import codesData2_1 from "../data/codes-2.1.json";
 
 export interface NaceCode {
   Section: string;
@@ -24,7 +25,10 @@ export interface CodeDetails {
   };
 }
 
-const codes: NaceCode[] = codesData;
+const codesMap: { [key: string]: NaceCode[] } = {
+  "2.0": codesData2_0,
+  "2.1": codesData2_1,
+};
 
 export class BadRequestError extends Error {
   statusCode: number;
@@ -46,9 +50,14 @@ export class NotFoundError extends Error {
   }
 }
 
-export function getCode(code: string): CodeDetails {
+export function getCode(code: string, version: string = "2.1"): CodeDetails {
   if (!code) {
     throw new BadRequestError("No code provided.");
+  }
+
+  const codes = codesMap[version];
+  if (!codes) {
+    throw new BadRequestError(`Invalid version provided: ${version}`);
   }
 
   const regex = /^(?<division>\d+)(\.(?<group>\d?)(?<klass>\d?))?$/;

@@ -22,13 +22,15 @@ const handler: Handler = async (
   const code: string | undefined = queryStringParameters?.code as
     | string
     | undefined;
+  const version: string | undefined =
+    (queryStringParameters?.version as string | undefined) || "2.1";
 
   try {
     if (!code) {
       throw new BadRequestError("No code provided.");
     }
 
-    const answer: CodeDetails = getCode(code);
+    const answer: CodeDetails = getCode(code, version);
 
     return {
       statusCode: 200,
