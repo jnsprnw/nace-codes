@@ -26,7 +26,7 @@ interface CodeDetails {
 
 const codes: NaceCode[] = JSON.parse(readFileSync("./data/codes.json", "utf8"));
 
-class BadRequestError extends Error {
+export class BadRequestError extends Error {
   statusCode: number;
 
   constructor(message: string) {
@@ -36,7 +36,7 @@ class BadRequestError extends Error {
   }
 }
 
-class NotFoundError extends Error {
+export class NotFoundError extends Error {
   statusCode: number;
 
   constructor(message: string) {

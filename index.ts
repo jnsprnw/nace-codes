@@ -1,5 +1,5 @@
 import express, { Request, Response } from "express";
-import { getCode } from "./code";
+import { getCode } from "./src/code";
 
 const app = express();
 
@@ -24,5 +24,7 @@ app.get("/", function (req: Request, res: Response) {
 });
 
 app.listen(3000, () => {
-  console.log("Server is running on port 3000");
+  console.log(
+    "Server is running on port 3000 (http://localhost:3000/?code=01.20)",
+  );
 });
