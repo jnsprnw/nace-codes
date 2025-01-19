@@ -2,8 +2,8 @@
 
 Request a NACE code and get section, division, group and class back. It supports both 2.0 and 2.1 versions of the NACE codes. 2.1 is the default version.
 
-The 2.1 version is sourced from [eur-lex.europa.eu](https://eur-lex.europa.eu/eli/reg_del/2023/137/oj). Thanks to [@szymon-jez](https://github.com/jnsprnw/nace-codes/issues/5).
-The 2.0 version is sourced from [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32006R1893).
+- The 2.1 version is sourced from [eur-lex.europa.eu](https://eur-lex.europa.eu/eli/reg_del/2023/137/oj). Thanks to [@szymon-jez](https://github.com/jnsprnw/nace-codes/issues/5).
+- The 2.0 version is sourced from [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32006R1893).
 
 ## Usage
 
