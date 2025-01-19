@@ -69,7 +69,3 @@ netlify dev
 ```
 
 Request: `http://localhost:8888/?code=16.23`
-
-## NACE codes source
-
-https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32006R1893
