@@ -1,4 +1,4 @@
-import { readFileSync } from "fs";
+import codesData from "../data/codes.json";
 
 export interface NaceCode {
   Section: string;
@@ -24,7 +24,7 @@ export interface CodeDetails {
   };
 }
 
-const codes: NaceCode[] = JSON.parse(readFileSync("./data/codes.json", "utf8"));
+const codes: NaceCode[] = codesData;
 
 export class BadRequestError extends Error {
   statusCode: number;
@@ -55,7 +55,9 @@ export function getCode(code: string): CodeDetails {
   const matches = regex.exec(code);
 
   if (!matches || !matches.groups?.division) {
-    throw new BadRequestError("The provided code has an invalid format.");
+    throw new BadRequestError(
+      "The provided code has an invalid format. Codes must be in the format 'XX.XX'.",
+    );
   }
 
   const { division, group, klass } = matches.groups;
