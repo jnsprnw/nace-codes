@@ -1,6 +1,6 @@
 import { describe, it, expect } from "bun:test";
-import { getCode } from "./code.ts";
-import { BadRequestError, NotFoundError } from "./code.ts";
+import { getCode } from "./code";
+import { BadRequestError, NotFoundError } from "./code";
 
 describe("getCode Function Tests", () => {
   // Test for a valid division
@@ -77,7 +77,9 @@ describe("getCode Function Tests", () => {
     } catch (e) {
       expect(e).toBeInstanceOf(BadRequestError);
       expect((e as BadRequestError).statusCode).toBe(400);
-      expect(e.message).toBe("The provided code has an invalid format.");
+      expect(e.message).toBe(
+        "The provided code has an invalid format. Codes must be in the format 'XX.XX'.",
+      );
     }
   });
 

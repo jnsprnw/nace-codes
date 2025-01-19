@@ -282,7 +282,7 @@
   {
     "Section": "A",
     "Division": "02",
-    "Group": null,
+    "Group": "01.7",
     "Class": null,
     "Activity": "Forestry and logging"
   },
@@ -345,7 +345,7 @@
   {
     "Section": "A",
     "Division": "03",
-    "Group": null,
+    "Group": "02.4",
     "Class": null,
     "Activity": "Fishing and aquaculture"
   },
@@ -394,14 +394,14 @@
   {
     "Section": "B",
     "Division": null,
-    "Group": null,
+    "Group": "03.2",
     "Class": null,
     "Activity": "Mining And Quarrying"
   },
   {
     "Section": "B",
     "Division": "05",
-    "Group": null,
+    "Group": "03.2",
     "Class": null,
     "Activity": "Mining of coal and lignite"
   },
@@ -436,7 +436,7 @@
   {
     "Section": "B",
     "Division": "06",
-    "Group": null,
+    "Group": "05.2",
     "Class": null,
     "Activity": "Extraction of crude petroleum and natural gas"
   },
@@ -471,7 +471,7 @@
   {
     "Section": "B",
     "Division": "07",
-    "Group": null,
+    "Group": "06.2",
     "Class": null,
     "Activity": "Mining of metal ores"
   },
@@ -513,7 +513,7 @@
   {
     "Section": "B",
     "Division": "08",
-    "Group": null,
+    "Group": "07.2",
     "Class": null,
     "Activity": "Other mining and quarrying"
   },
@@ -576,7 +576,7 @@
   {
     "Section": "B",
     "Division": "09",
-    "Group": null,
+    "Group": "08.9",
     "Class": null,
     "Activity": "Mining support service activities"
   },
@@ -611,14 +611,14 @@
   {
     "Section": "C",
     "Division": null,
-    "Group": null,
+    "Group": "09.9",
     "Class": null,
     "Activity": "Manufacturing"
   },
   {
     "Section": "C",
     "Division": "10",
-    "Group": null,
+    "Group": "09.9",
     "Class": null,
     "Activity": "Manufacture of food products"
   },
@@ -863,7 +863,7 @@
   {
     "Section": "C",
     "Division": "11",
-    "Group": null,
+    "Group": "10.9",
     "Class": null,
     "Activity": "Manufacture of beverages"
   },
@@ -926,7 +926,7 @@
   {
     "Section": "C",
     "Division": "12",
-    "Group": null,
+    "Group": "11.0",
     "Class": null,
     "Activity": "Manufacture of tobacco products"
   },
@@ -947,7 +947,7 @@
   {
     "Section": "C",
     "Division": "13",
-    "Group": null,
+    "Group": "12.0",
     "Class": null,
     "Activity": "Manufacture of textiles"
   },
@@ -1052,7 +1052,7 @@
   {
     "Section": "C",
     "Division": "14",
-    "Group": null,
+    "Group": "13.9",
     "Class": null,
     "Activity": "Manufacture of wearing apparel"
   },
@@ -1136,7 +1136,7 @@
   {
     "Section": "C",
     "Division": "15",
-    "Group": null,
+    "Group": "14.3",
     "Class": null,
     "Activity": "Manufacture of leather and related products"
   },
@@ -1178,7 +1178,7 @@
   {
     "Section": "C",
     "Division": "16",
-    "Group": null,
+    "Group": "15.2",
     "Class": null,
     "Activity": "Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials"
   },
@@ -1241,7 +1241,7 @@
   {
     "Section": "C",
     "Division": "17",
-    "Group": null,
+    "Group": "16.2",
     "Class": null,
     "Activity": "Manufacture of paper and paper products"
   },
@@ -1311,7 +1311,7 @@
   {
     "Section": "C",
     "Division": "18",
-    "Group": null,
+    "Group": "17.2",
     "Class": null,
     "Activity": "Printing and reproduction of recorded media"
   },
@@ -1367,7 +1367,7 @@
   {
     "Section": "C",
     "Division": "19",
-    "Group": null,
+    "Group": "18.2",
     "Class": null,
     "Activity": "Manufacture of coke and refined petroleum products"
   },
@@ -1402,7 +1402,7 @@
   {
     "Section": "C",
     "Division": "20",
-    "Group": null,
+    "Group": "19.2",
     "Class": null,
     "Activity": "Manufacture of chemicals and chemical products"
   },
@@ -1563,7 +1563,7 @@
   {
     "Section": "C",
     "Division": "21",
-    "Group": null,
+    "Group": "20.6",
     "Class": null,
     "Activity": "Manufacture of basic pharmaceutical products and pharmaceutical preparations"
   },
@@ -1598,7 +1598,7 @@
   {
     "Section": "C",
     "Division": "22",
-    "Group": null,
+    "Group": "21.2",
     "Class": null,
     "Activity": "Manufacture of rubber and plastic products"
   },
@@ -1661,7 +1661,7 @@
   {
     "Section": "C",
     "Division": "23",
-    "Group": null,
+    "Group": "22.2",
     "Class": null,
     "Activity": "Manufacture of other non-metallic mineral products"
   },
@@ -1892,7 +1892,7 @@
   {
     "Section": "C",
     "Division": "24",
-    "Group": null,
+    "Group": "23.9",
     "Class": null,
     "Activity": "Manufacture of basic metals"
   },
@@ -2046,7 +2046,7 @@
   {
     "Section": "C",
     "Division": "25",
-    "Group": null,
+    "Group": "24.5",
     "Class": null,
     "Activity": "Manufacture of fabricated metal products, except machinery and equipment"
   },
@@ -2228,7 +2228,7 @@
   {
     "Section": "C",
     "Division": "26",
-    "Group": null,
+    "Group": "25.9",
     "Class": null,
     "Activity": "Manufacture of computer, electronic and optical products"
   },
@@ -2361,7 +2361,7 @@
   {
     "Section": "C",
     "Division": "27",
-    "Group": null,
+    "Group": "26.8",
     "Class": null,
     "Activity": "Manufacture of electrical equipment"
   },
@@ -2480,7 +2480,7 @@
   {
     "Section": "C",
     "Division": "28",
-    "Group": null,
+    "Group": "27.9",
     "Class": null,
     "Activity": "Manufacture of machinery and equipment n.e.c."
   },
@@ -2489,7 +2489,7 @@
     "Division": "28",
     "Group": "28.1",
     "Class": null,
-    "Activity": "Manufacture of general \u2014 purpose machinery"
+    "Activity": "Manufacture of general — purpose machinery"
   },
   {
     "Section": "C",
@@ -2669,7 +2669,7 @@
   {
     "Section": "C",
     "Division": "29",
-    "Group": null,
+    "Group": "28.9",
     "Class": null,
     "Activity": "Manufacture of motor vehicles, trailers and semi-trailers"
   },
@@ -2725,7 +2725,7 @@
   {
     "Section": "C",
     "Division": "30",
-    "Group": null,
+    "Group": "29.3",
     "Class": null,
     "Activity": "Manufacture of other transport equipment"
   },
@@ -2823,7 +2823,7 @@
   {
     "Section": "C",
     "Division": "31",
-    "Group": null,
+    "Group": "30.9",
     "Class": null,
     "Activity": "Manufacture of furniture"
   },
@@ -2865,7 +2865,7 @@
   {
     "Section": "C",
     "Division": "32",
-    "Group": null,
+    "Group": "31.0",
     "Class": null,
     "Activity": "Other manufacturing"
   },
@@ -2977,7 +2977,7 @@
   {
     "Section": "C",
     "Division": "33",
-    "Group": null,
+    "Group": "32.9",
     "Class": null,
     "Activity": "Repair and installation of machinery and equipment"
   },
@@ -3061,14 +3061,14 @@
   {
     "Section": "D",
     "Division": null,
-    "Group": null,
+    "Group": "33.2",
     "Class": null,
     "Activity": "Electricity, Gas, Steam And Air Conditioning Supply"
   },
   {
     "Section": "D",
     "Division": "35",
-    "Group": null,
+    "Group": "33.2",
     "Class": null,
     "Activity": "Electricity, gas, steam and air conditioning supply"
   },
@@ -3152,14 +3152,14 @@
   {
     "Section": "E",
     "Division": null,
-    "Group": null,
+    "Group": "35.3",
     "Class": null,
     "Activity": "Water Supply; Sewerage, Waste Management And Remediation Activities"
   },
   {
     "Section": "E",
     "Division": "36",
-    "Group": null,
+    "Group": "35.3",
     "Class": null,
     "Activity": "Water collection, treatment and supply"
   },
@@ -3180,7 +3180,7 @@
   {
     "Section": "E",
     "Division": "37",
-    "Group": null,
+    "Group": "36.0",
     "Class": null,
     "Activity": "Sewerage"
   },
@@ -3201,7 +3201,7 @@
   {
     "Section": "E",
     "Division": "38",
-    "Group": null,
+    "Group": "37.0",
     "Class": null,
     "Activity": "Waste collection, treatment and disposal activities; materials recovery"
   },
@@ -3271,7 +3271,7 @@
   {
     "Section": "E",
     "Division": "39",
-    "Group": null,
+    "Group": "38.3",
     "Class": null,
     "Activity": "Remediation activities and other waste management services"
   },
@@ -3292,14 +3292,14 @@
   {
     "Section": "F",
     "Division": null,
-    "Group": null,
+    "Group": "39.0",
     "Class": null,
     "Activity": "Construction"
   },
   {
     "Section": "F",
     "Division": "41",
-    "Group": null,
+    "Group": "39.0",
     "Class": null,
     "Activity": "Construction of buildings"
   },
@@ -3334,7 +3334,7 @@
   {
     "Section": "F",
     "Division": "42",
-    "Group": null,
+    "Group": "41.2",
     "Class": null,
     "Activity": "Civil engineering"
   },
@@ -3411,7 +3411,7 @@
   {
     "Section": "F",
     "Division": "43",
-    "Group": null,
+    "Group": "42.9",
     "Class": null,
     "Activity": "Specialised construction activities"
   },
@@ -3537,14 +3537,14 @@
   {
     "Section": "G",
     "Division": null,
-    "Group": null,
+    "Group": "43.9",
     "Class": null,
     "Activity": "Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles"
   },
   {
     "Section": "G",
     "Division": "45",
-    "Group": null,
+    "Group": "43.9",
     "Class": null,
     "Activity": "Wholesale and retail trade and repair of motor vehicles and motorcycles"
   },
@@ -3621,7 +3621,7 @@
   {
     "Section": "G",
     "Division": "46",
-    "Group": null,
+    "Group": "45.4",
     "Class": null,
     "Activity": "Wholesale trade, except of motor vehicles and motorcycles"
   },
@@ -4020,7 +4020,7 @@
   {
     "Section": "G",
     "Division": "47",
-    "Group": null,
+    "Group": "46.9",
     "Class": null,
     "Activity": "Retail trade, except of motor vehicles and motorcycles"
   },
@@ -4349,14 +4349,14 @@
   {
     "Section": "H",
     "Division": null,
-    "Group": null,
+    "Group": "47.9",
     "Class": null,
     "Activity": "Transportation And Storage"
   },
   {
     "Section": "H",
     "Division": "49",
-    "Group": null,
+    "Group": "47.9",
     "Class": null,
     "Activity": "Land transport and transport via pipelines"
   },
@@ -4454,7 +4454,7 @@
   {
     "Section": "H",
     "Division": "50",
-    "Group": null,
+    "Group": "49.5",
     "Class": null,
     "Activity": "Water transport"
   },
@@ -4517,7 +4517,7 @@
   {
     "Section": "H",
     "Division": "51",
-    "Group": null,
+    "Group": "50.4",
     "Class": null,
     "Activity": "Air transport"
   },
@@ -4559,7 +4559,7 @@
   {
     "Section": "H",
     "Division": "52",
-    "Group": null,
+    "Group": "51.2",
     "Class": null,
     "Activity": "Warehousing and support activities for transportation"
   },
@@ -4622,7 +4622,7 @@
   {
     "Section": "H",
     "Division": "53",
-    "Group": null,
+    "Group": "52.2",
     "Class": null,
     "Activity": "Postal and courier activities"
   },
@@ -4657,14 +4657,14 @@
   {
     "Section": "I",
     "Division": null,
-    "Group": null,
+    "Group": "53.2",
     "Class": null,
     "Activity": "Accommodation And Food Service Activities"
   },
   {
     "Section": "I",
     "Division": "55",
-    "Group": null,
+    "Group": "53.2",
     "Class": null,
     "Activity": "Accommodation"
   },
@@ -4727,7 +4727,7 @@
   {
     "Section": "I",
     "Division": "56",
-    "Group": null,
+    "Group": "55.9",
     "Class": null,
     "Activity": "Food and beverage service activities"
   },
@@ -4783,14 +4783,14 @@
   {
     "Section": "J",
     "Division": null,
-    "Group": null,
+    "Group": "56.3",
     "Class": null,
     "Activity": "Information And Communication"
   },
   {
     "Section": "J",
     "Division": "58",
-    "Group": null,
+    "Group": "56.3",
     "Class": null,
     "Activity": "Publishing activities"
   },
@@ -4860,7 +4860,7 @@
   {
     "Section": "J",
     "Division": "59",
-    "Group": null,
+    "Group": "58.2",
     "Class": null,
     "Activity": "Motion picture, video and television programme production, sound recording and music publishing activities"
   },
@@ -4916,7 +4916,7 @@
   {
     "Section": "J",
     "Division": "60",
-    "Group": null,
+    "Group": "59.2",
     "Class": null,
     "Activity": "Programming and broadcasting activities"
   },
@@ -4951,7 +4951,7 @@
   {
     "Section": "J",
     "Division": "61",
-    "Group": null,
+    "Group": "60.2",
     "Class": null,
     "Activity": "Telecommunications"
   },
@@ -5014,7 +5014,7 @@
   {
     "Section": "J",
     "Division": "62",
-    "Group": null,
+    "Group": "61.9",
     "Class": null,
     "Activity": "Computer programming, consultancy and related activities"
   },
@@ -5056,7 +5056,7 @@
   {
     "Section": "J",
     "Division": "63",
-    "Group": null,
+    "Group": "62.0",
     "Class": null,
     "Activity": "Information service activities"
   },
@@ -5105,14 +5105,14 @@
   {
     "Section": "K",
     "Division": null,
-    "Group": null,
+    "Group": "63.9",
     "Class": null,
     "Activity": "Financial And Insurance Activities"
   },
   {
     "Section": "K",
     "Division": "64",
-    "Group": null,
+    "Group": "63.9",
     "Class": null,
     "Activity": "Financial service activities, except insurance and pension funding"
   },
@@ -5196,7 +5196,7 @@
   {
     "Section": "K",
     "Division": "65",
-    "Group": null,
+    "Group": "64.9",
     "Class": null,
     "Activity": "Insurance, reinsurance and pension funding, except compulsory social security"
   },
@@ -5252,7 +5252,7 @@
   {
     "Section": "K",
     "Division": "66",
-    "Group": null,
+    "Group": "65.3",
     "Class": null,
     "Activity": "Activities auxiliary to financial services and insurance activities"
   },
@@ -5329,14 +5329,14 @@
   {
     "Section": "L",
     "Division": null,
-    "Group": null,
+    "Group": "66.3",
     "Class": null,
     "Activity": "Real Estate Activities"
   },
   {
     "Section": "L",
     "Division": "68",
-    "Group": null,
+    "Group": "66.3",
     "Class": null,
     "Activity": "Real estate activities"
   },
@@ -5392,14 +5392,14 @@
   {
     "Section": "M",
     "Division": null,
-    "Group": null,
+    "Group": "68.3",
     "Class": null,
     "Activity": "Professional, Scientific And Technical Activities"
   },
   {
     "Section": "M",
     "Division": "69",
-    "Group": null,
+    "Group": "68.3",
     "Class": null,
     "Activity": "Legal and accounting activities"
   },
@@ -5434,7 +5434,7 @@
   {
     "Section": "M",
     "Division": "70",
-    "Group": null,
+    "Group": "69.2",
     "Class": null,
     "Activity": "Activities of head offices; management consultancy activities"
   },
@@ -5476,7 +5476,7 @@
   {
     "Section": "M",
     "Division": "71",
-    "Group": null,
+    "Group": "70.2",
     "Class": null,
     "Activity": "Architectural and engineering activities; technical testing and analysis"
   },
@@ -5518,7 +5518,7 @@
   {
     "Section": "M",
     "Division": "72",
-    "Group": null,
+    "Group": "71.2",
     "Class": null,
     "Activity": "Scientific research and development"
   },
@@ -5560,7 +5560,7 @@
   {
     "Section": "M",
     "Division": "73",
-    "Group": null,
+    "Group": "72.2",
     "Class": null,
     "Activity": "Advertising and market research"
   },
@@ -5602,7 +5602,7 @@
   {
     "Section": "M",
     "Division": "74",
-    "Group": null,
+    "Group": "73.2",
     "Class": null,
     "Activity": "Other professional, scientific and technical activities"
   },
@@ -5665,7 +5665,7 @@
   {
     "Section": "M",
     "Division": "75",
-    "Group": null,
+    "Group": "74.9",
     "Class": null,
     "Activity": "Veterinary activities"
   },
@@ -5686,14 +5686,14 @@
   {
     "Section": "N",
     "Division": null,
-    "Group": null,
+    "Group": "75.0",
     "Class": null,
     "Activity": "Administrative And Support Service Activities"
   },
   {
     "Section": "N",
     "Division": "77",
-    "Group": null,
+    "Group": "75.0",
     "Class": null,
     "Activity": "Rental and leasing activities"
   },
@@ -5812,7 +5812,7 @@
   {
     "Section": "N",
     "Division": "78",
-    "Group": null,
+    "Group": "77.4",
     "Class": null,
     "Activity": "Employment activities"
   },
@@ -5861,7 +5861,7 @@
   {
     "Section": "N",
     "Division": "79",
-    "Group": null,
+    "Group": "78.3",
     "Class": null,
     "Activity": "Travel agency, tour operator reservation service and related activities"
   },
@@ -5903,7 +5903,7 @@
   {
     "Section": "N",
     "Division": "80",
-    "Group": null,
+    "Group": "79.9",
     "Class": null,
     "Activity": "Security and investigation activities"
   },
@@ -5952,7 +5952,7 @@
   {
     "Section": "N",
     "Division": "81",
-    "Group": null,
+    "Group": "80.3",
     "Class": null,
     "Activity": "Services to buildings and landscape activities"
   },
@@ -6015,7 +6015,7 @@
   {
     "Section": "N",
     "Division": "82",
-    "Group": null,
+    "Group": "81.3",
     "Class": null,
     "Activity": "Office administrative, office support and other business support activities"
   },
@@ -6099,14 +6099,14 @@
   {
     "Section": "O",
     "Division": null,
-    "Group": null,
+    "Group": "82.9",
     "Class": null,
     "Activity": "Public Administration And Defence; Compulsory Social Security"
   },
   {
     "Section": "O",
     "Division": "84",
-    "Group": null,
+    "Group": "82.9",
     "Class": null,
     "Activity": "Public administration and defence; compulsory social security"
   },
@@ -6197,14 +6197,14 @@
   {
     "Section": "P",
     "Division": null,
-    "Group": null,
+    "Group": "84.3",
     "Class": null,
     "Activity": "Education"
   },
   {
     "Section": "P",
     "Division": "85",
-    "Group": null,
+    "Group": "84.3",
     "Class": null,
     "Activity": "Education"
   },
@@ -6330,14 +6330,14 @@
   {
     "Section": "Q",
     "Division": null,
-    "Group": null,
+    "Group": "85.6",
     "Class": null,
     "Activity": "Human Health And Social Work Activities"
   },
   {
     "Section": "Q",
     "Division": "86",
-    "Group": null,
+    "Group": "85.6",
     "Class": null,
     "Activity": "Human health activities"
   },
@@ -6400,7 +6400,7 @@
   {
     "Section": "Q",
     "Division": "87",
-    "Group": null,
+    "Group": "86.9",
     "Class": null,
     "Activity": "Residential care activities"
   },
@@ -6463,7 +6463,7 @@
   {
     "Section": "Q",
     "Division": "88",
-    "Group": null,
+    "Group": "87.9",
     "Class": null,
     "Activity": "Social work activities without accommodation"
   },
@@ -6505,14 +6505,14 @@
   {
     "Section": "R",
     "Division": null,
-    "Group": null,
+    "Group": "88.9",
     "Class": null,
     "Activity": "Arts, Entertainment And Recreation"
   },
   {
     "Section": "R",
     "Division": "90",
-    "Group": null,
+    "Group": "88.9",
     "Class": null,
     "Activity": "Creative, arts and entertainment activities"
   },
@@ -6554,7 +6554,7 @@
   {
     "Section": "R",
     "Division": "91",
-    "Group": null,
+    "Group": "90.0",
     "Class": null,
     "Activity": "Libraries, archives, museums and other cultural activities"
   },
@@ -6596,7 +6596,7 @@
   {
     "Section": "R",
     "Division": "92",
-    "Group": null,
+    "Group": "91.0",
     "Class": null,
     "Activity": "Gambling and betting activities"
   },
@@ -6617,7 +6617,7 @@
   {
     "Section": "R",
     "Division": "93",
-    "Group": null,
+    "Group": "92.0",
     "Class": null,
     "Activity": "Sports activities and amusement and recreation activities"
   },
@@ -6680,14 +6680,14 @@
   {
     "Section": "S",
     "Division": null,
-    "Group": null,
+    "Group": "93.2",
     "Class": null,
     "Activity": "Other Service Activities"
   },
   {
     "Section": "S",
     "Division": "94",
-    "Group": null,
+    "Group": "93.2",
     "Class": null,
     "Activity": "Activities of membership organisations"
   },
@@ -6757,7 +6757,7 @@
   {
     "Section": "S",
     "Division": "95",
-    "Group": null,
+    "Group": "94.9",
     "Class": null,
     "Activity": "Repair of computers and personal and household goods"
   },
@@ -6834,7 +6834,7 @@
   {
     "Section": "S",
     "Division": "96",
-    "Group": null,
+    "Group": "95.2",
     "Class": null,
     "Activity": "Other personal service activities"
   },
@@ -6883,14 +6883,14 @@
   {
     "Section": "T",
     "Division": null,
-    "Group": null,
+    "Group": "96.0",
     "Class": null,
-    "Activity": "Activities Of Households As Employers; Undifferentiated Goods- And Services-producing  \nActivities Of Households For Own Use"
+    "Activity": "Activities Of Households As Employers; Undifferentiated Goods- And Services-producing  \r\nActivities Of Households For Own Use"
   },
   {
     "Section": "T",
     "Division": "97",
-    "Group": null,
+    "Group": "96.0",
     "Class": null,
     "Activity": "Activities of households as employers of domestic personnel"
   },
@@ -6911,7 +6911,7 @@
   {
     "Section": "T",
     "Division": "98",
-    "Group": null,
+    "Group": "97.0",
     "Class": null,
     "Activity": "Undifferentiated goods- and services-producing activities of private households for own use"
   },
@@ -6946,14 +6946,14 @@
   {
     "Section": "U",
     "Division": null,
-    "Group": null,
+    "Group": "98.2",
     "Class": null,
     "Activity": "Activities Of Extraterritorial Organisations And Bodies"
   },
   {
     "Section": "U",
     "Division": "99",
-    "Group": null,
+    "Group": "98.2",
     "Class": null,
     "Activity": "Activities of extraterritorial organisations and bodies"
   },
